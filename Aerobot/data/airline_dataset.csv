@@ -1,0 +1,1001 @@
+Gender,Customer Type,Age,Type of Travel,Class,Flight Distance,Inflight wifi service,Ease of Online booking,Gate location,Food and drink,Online boarding,Seat comfort,Inflight entertainment,On-board service,Leg room service,Baggage handling,Checkin service,Inflight service,Cleanliness,Departure Delay in Minutes,Arrival Delay in Minutes
+Female,disloyal Customer,66,Personal,Eco,1505,3,5,3,3,1,3,4,2,3,2,5,5,2,87,72
+Female,disloyal Customer,26,Personal,Eco,729,2,3,5,2,5,1,2,4,5,5,2,5,3,50,47
+Male,disloyal Customer,76,Business,Eco Plus,100,5,1,5,4,4,2,2,5,2,3,4,1,1,10,24
+Female,disloyal Customer,18,Personal,Eco,288,1,4,1,3,3,2,4,4,4,1,3,5,5,77,74
+Male,disloyal Customer,22,Personal,Eco Plus,2527,2,2,4,4,5,4,4,4,2,3,2,2,4,80,42
+Female,disloyal Customer,68,Business,Eco,2377,3,3,4,4,1,4,3,4,2,5,3,4,3,64,89
+Female,Loyal Customer,32,Personal,Eco,2352,4,3,4,4,2,3,5,1,4,4,3,1,1,74,12
+Female,disloyal Customer,21,Business,Eco,1197,2,4,5,3,3,2,5,1,5,1,4,3,5,30,23
+Female,Loyal Customer,38,Business,Eco Plus,111,1,2,2,2,4,2,1,1,2,4,3,4,1,27,90
+Female,Loyal Customer,32,Business,Eco,331,1,3,3,5,1,4,4,5,3,1,3,1,5,38,53
+Female,disloyal Customer,24,Business,Eco,2102,3,3,3,1,4,5,1,1,4,3,1,3,1,36,88
+Female,Loyal Customer,64,Business,Eco,2918,3,2,3,2,2,1,5,3,3,4,5,5,4,35,48
+Male,disloyal Customer,37,Business,Business,981,4,4,4,1,3,1,2,3,2,3,5,3,1,84,42
+Male,disloyal Customer,64,Business,Eco,2925,2,1,2,3,3,4,4,3,2,1,1,2,2,57,37
+Male,Loyal Customer,29,Personal,Eco Plus,164,1,1,4,2,2,1,5,4,2,4,5,5,5,74,4
+Male,Loyal Customer,53,Personal,Eco,264,2,1,4,2,4,4,5,1,4,2,2,1,3,1,72
+Female,disloyal Customer,55,Business,Eco Plus,109,5,1,2,1,5,3,3,1,3,1,2,2,4,49,10
+Female,Loyal Customer,65,Business,Business,1041,5,4,1,5,4,5,5,3,2,2,4,1,5,8,75
+Female,disloyal Customer,40,Personal,Eco Plus,202,5,4,4,5,1,3,1,2,1,3,5,2,4,44,77
+Female,Loyal Customer,33,Personal,Eco Plus,533,4,5,3,1,3,1,5,5,5,5,3,5,2,33,19
+Male,Loyal Customer,58,Business,Business,3780,2,2,3,1,2,3,5,5,1,2,2,1,5,23,49
+Female,disloyal Customer,37,Business,Eco,1036,4,3,4,4,4,2,3,4,1,5,2,3,5,48,2
+Female,disloyal Customer,59,Business,Eco,2959,2,1,1,4,3,5,4,1,4,5,4,5,2,71,88
+Female,Loyal Customer,25,Personal,Business,2490,5,2,1,4,2,1,1,5,5,1,5,5,1,51,42
+Female,disloyal Customer,39,Business,Eco Plus,3324,1,2,5,4,3,3,2,4,2,4,1,1,4,46,73
+Male,disloyal Customer,51,Business,Business,2198,3,2,3,5,2,5,5,5,3,3,5,2,2,79,68
+Male,disloyal Customer,78,Business,Business,1761,2,1,5,3,4,1,3,3,1,4,3,2,1,31,77
+Male,Loyal Customer,34,Business,Business,1037,4,2,5,4,1,3,5,2,5,3,3,3,5,55,74
+Male,disloyal Customer,31,Personal,Business,2033,1,1,4,5,1,4,2,4,2,2,3,3,5,3,26
+Female,Loyal Customer,75,Personal,Eco Plus,2129,1,4,1,3,3,3,5,3,2,3,5,3,1,72,91
+Male,Loyal Customer,55,Personal,Eco,1129,2,3,5,2,5,5,1,1,4,5,5,5,5,77,3
+Male,disloyal Customer,50,Business,Eco Plus,570,2,3,2,4,1,1,1,1,1,1,5,1,2,77,86
+Male,disloyal Customer,78,Business,Eco Plus,1701,4,3,2,1,1,5,1,2,4,5,3,2,3,58,63
+Male,Loyal Customer,47,Personal,Eco,395,5,4,3,1,3,2,2,5,4,3,2,3,5,44,19
+Female,Loyal Customer,44,Personal,Business,2322,5,2,4,1,2,3,3,4,4,5,1,4,1,23,19
+Male,disloyal Customer,55,Personal,Eco,1350,1,2,3,3,2,1,4,5,1,1,2,5,3,61,24
+Male,disloyal Customer,51,Personal,Business,3385,1,5,5,1,4,3,1,3,1,2,5,2,4,64,94
+Male,disloyal Customer,51,Personal,Business,105,3,1,2,5,5,5,2,3,4,3,5,2,3,85,25
+Male,disloyal Customer,18,Business,Business,605,4,5,3,3,4,3,5,5,4,4,1,4,4,10,32
+Male,disloyal Customer,60,Personal,Eco,863,1,4,1,4,5,4,4,1,4,3,3,3,1,59,51
+Male,disloyal Customer,21,Personal,Eco,1956,2,5,4,3,2,2,3,3,1,5,4,1,5,72,15
+Male,disloyal Customer,50,Business,Business,1333,2,4,2,3,5,1,3,4,1,1,3,4,4,75,13
+Male,Loyal Customer,52,Business,Business,1480,2,1,3,1,2,1,1,2,1,5,1,5,4,44,73
+Male,Loyal Customer,36,Business,Business,3805,3,4,3,3,4,1,5,1,3,4,4,5,3,54,24
+Male,Loyal Customer,38,Business,Business,1655,3,5,3,3,3,4,1,4,4,2,2,5,5,19,36
+Male,Loyal Customer,62,Personal,Business,1230,2,5,1,2,4,5,5,3,1,5,1,1,1,97,85
+Female,disloyal Customer,78,Personal,Business,3446,2,5,4,4,1,5,4,1,5,4,3,4,1,17,80
+Male,Loyal Customer,38,Personal,Business,1409,3,4,3,2,4,4,1,5,1,2,3,1,2,46,63
+Male,Loyal Customer,78,Personal,Eco Plus,1781,2,3,5,3,3,5,4,5,5,2,3,5,5,72,1
+Male,Loyal Customer,76,Business,Eco,2762,4,5,5,1,1,1,5,1,3,4,1,1,4,22,5
+Female,Loyal Customer,42,Personal,Eco Plus,1681,3,2,5,2,5,2,1,2,4,3,3,3,5,52,36
+Male,disloyal Customer,64,Business,Eco Plus,1868,5,4,2,2,1,3,2,1,4,2,4,5,2,55,65
+Male,disloyal Customer,39,Business,Eco,422,1,5,4,4,4,1,5,3,1,2,5,3,1,53,53
+Male,disloyal Customer,59,Personal,Eco,3912,4,2,2,2,4,1,5,1,3,1,3,2,2,86,44
+Female,Loyal Customer,46,Business,Business,975,4,1,3,2,1,5,5,1,4,2,4,1,3,90,38
+Male,Loyal Customer,58,Personal,Eco,1009,2,4,3,2,1,1,3,1,3,2,1,5,1,64,2
+Male,Loyal Customer,42,Personal,Business,3872,3,5,5,1,2,2,5,5,4,1,4,5,2,55,18
+Male,disloyal Customer,28,Personal,Business,442,2,1,5,3,5,3,5,3,4,2,4,2,2,96,14
+Male,Loyal Customer,76,Business,Eco Plus,3898,3,4,5,1,5,2,1,5,1,2,1,2,5,7,31
+Female,Loyal Customer,21,Personal,Business,1309,1,5,1,5,1,5,1,4,3,1,4,2,1,97,67
+Male,Loyal Customer,45,Business,Eco,1248,1,1,1,5,1,5,4,3,3,3,3,5,2,75,57
+Male,Loyal Customer,23,Business,Eco Plus,2348,4,4,5,4,4,1,2,4,4,4,5,3,2,30,42
+Female,disloyal Customer,25,Business,Business,2748,2,5,3,2,3,4,3,5,3,4,1,3,1,92,17
+Female,disloyal Customer,68,Business,Eco,2788,5,2,4,5,4,5,1,5,1,1,3,5,5,51,40
+Male,Loyal Customer,24,Personal,Business,399,2,3,5,3,4,1,1,5,3,2,1,5,2,86,14
+Female,disloyal Customer,65,Personal,Eco,3216,5,5,1,2,5,4,5,5,2,1,2,4,5,81,44
+Female,disloyal Customer,45,Personal,Business,2406,1,1,1,5,3,2,2,5,4,1,2,3,4,6,58
+Male,Loyal Customer,76,Business,Eco Plus,3225,1,4,2,4,4,4,1,3,4,4,1,3,5,58,65
+Male,disloyal Customer,62,Personal,Business,3335,1,2,3,4,1,2,5,5,1,3,1,1,2,90,98
+Male,disloyal Customer,46,Business,Eco Plus,2515,5,4,3,5,3,3,1,5,3,4,4,3,3,4,8
+Male,Loyal Customer,52,Personal,Eco Plus,1093,5,2,2,5,5,1,2,1,2,2,5,2,5,65,97
+Male,Loyal Customer,70,Personal,Eco,2624,2,5,2,1,5,4,2,2,4,4,4,4,1,71,5
+Female,Loyal Customer,57,Personal,Eco,3666,3,5,3,2,1,5,2,2,1,3,3,2,2,72,23
+Female,disloyal Customer,51,Business,Eco,3398,5,2,3,1,5,2,2,5,5,2,2,5,2,73,5
+Female,disloyal Customer,46,Personal,Business,1136,3,4,2,1,2,3,4,3,5,2,5,4,4,13,53
+Female,disloyal Customer,61,Business,Business,124,2,2,5,4,3,1,2,2,5,3,3,5,1,27,2
+Male,Loyal Customer,66,Business,Eco Plus,1319,1,5,5,2,1,1,2,1,1,2,4,4,5,37,61
+Male,Loyal Customer,47,Business,Eco Plus,128,1,4,2,5,5,4,4,5,2,4,1,1,2,29,7
+Male,disloyal Customer,38,Business,Eco,1237,3,2,3,2,4,1,1,2,4,5,2,5,1,32,28
+Female,disloyal Customer,71,Personal,Eco,3658,3,3,4,4,5,3,1,2,2,5,2,3,4,14,38
+Female,Loyal Customer,41,Personal,Eco,2892,2,1,2,2,1,5,3,1,3,1,1,3,1,85,83
+Male,disloyal Customer,41,Personal,Eco,2087,3,3,5,2,3,2,5,5,5,5,3,5,4,74,7
+Male,disloyal Customer,47,Personal,Eco,809,2,1,1,4,5,1,3,5,4,3,3,3,3,11,95
+Male,disloyal Customer,63,Business,Business,3165,5,1,4,1,5,2,4,2,3,1,3,2,2,31,42
+Male,disloyal Customer,43,Personal,Eco,3849,4,3,4,5,1,4,3,5,4,4,4,2,4,62,18
+Female,Loyal Customer,48,Personal,Eco Plus,3818,4,1,3,2,1,2,2,1,2,3,2,4,1,18,2
+Male,Loyal Customer,24,Business,Eco Plus,3084,2,3,3,2,3,3,1,4,1,5,5,1,5,18,68
+Male,disloyal Customer,60,Business,Eco,2080,5,2,2,2,3,4,4,5,1,2,4,2,5,56,17
+Male,Loyal Customer,61,Business,Eco,3850,2,3,3,2,5,2,1,5,1,3,5,5,2,89,41
+Female,Loyal Customer,66,Personal,Business,1132,5,1,3,3,1,5,2,1,1,5,2,2,1,98,37
+Male,Loyal Customer,68,Business,Eco,2499,2,2,5,3,5,2,2,5,5,2,4,5,2,46,46
+Female,Loyal Customer,48,Personal,Eco,359,2,4,3,2,5,2,2,4,1,4,4,2,3,96,10
+Male,Loyal Customer,68,Personal,Business,3992,3,3,2,5,1,5,3,2,5,3,5,1,5,83,91
+Female,disloyal Customer,21,Personal,Business,1809,4,3,2,3,1,4,2,1,1,4,4,2,5,96,81
+Female,disloyal Customer,44,Personal,Eco Plus,1761,2,4,3,3,5,1,5,4,2,2,2,3,5,89,69
+Female,disloyal Customer,74,Business,Business,1836,1,3,3,1,5,4,2,4,4,1,2,3,2,31,7
+Male,Loyal Customer,27,Business,Eco Plus,3535,3,3,4,4,2,5,1,2,2,3,3,5,2,86,78
+Male,Loyal Customer,61,Business,Business,3088,3,5,5,3,3,4,5,2,4,1,5,2,3,38,12
+Female,Loyal Customer,24,Business,Eco,3829,5,3,2,1,2,2,5,3,2,2,3,1,5,76,62
+Female,disloyal Customer,47,Business,Business,3159,1,3,3,1,5,3,4,4,4,5,2,3,1,24,6
+Female,disloyal Customer,62,Personal,Eco,3341,3,3,1,5,1,1,1,4,5,1,5,3,4,83,16
+Male,disloyal Customer,55,Business,Eco,3008,4,4,1,5,4,4,3,1,2,1,2,2,5,95,74
+Female,disloyal Customer,73,Business,Eco,1391,4,2,3,2,5,2,4,2,4,3,2,1,2,13,45
+Male,Loyal Customer,62,Personal,Business,1484,1,5,4,5,5,4,2,4,2,1,3,4,3,51,25
+Male,Loyal Customer,57,Personal,Eco,1166,5,5,4,5,4,1,3,2,1,1,5,2,2,21,57
+Male,Loyal Customer,70,Business,Business,563,5,5,2,3,4,3,1,5,5,5,1,3,1,7,34
+Male,disloyal Customer,20,Business,Business,3918,4,5,1,4,1,3,5,1,5,2,2,2,2,85,14
+Male,Loyal Customer,50,Personal,Eco Plus,1585,5,3,4,4,1,2,2,4,2,3,3,1,1,99,59
+Male,disloyal Customer,31,Business,Business,3541,3,3,3,1,3,3,1,2,2,5,2,3,4,76,93
+Male,Loyal Customer,59,Personal,Eco,2003,1,1,4,4,4,5,2,4,1,1,2,3,1,90,68
+Male,Loyal Customer,67,Business,Business,2478,2,3,4,2,5,1,2,2,3,4,4,3,1,67,56
+Male,disloyal Customer,73,Personal,Eco Plus,3119,4,2,3,1,1,3,3,1,4,5,1,2,4,66,45
+Male,Loyal Customer,22,Personal,Eco,1198,1,3,1,4,1,3,1,1,4,5,5,2,2,36,63
+Female,disloyal Customer,67,Business,Eco,125,2,1,3,3,3,4,1,4,3,2,1,2,2,44,5
+Male,Loyal Customer,65,Personal,Business,639,4,2,4,4,3,3,2,1,3,2,1,1,1,10,67
+Female,Loyal Customer,71,Personal,Eco,429,2,4,3,2,4,2,5,2,1,3,2,3,2,93,84
+Female,Loyal Customer,56,Business,Eco,3266,5,3,1,2,3,2,1,3,5,4,5,2,1,50,74
+Male,Loyal Customer,66,Business,Eco Plus,1481,4,4,4,5,3,3,4,1,5,2,2,4,5,0,52
+Male,Loyal Customer,34,Personal,Business,3277,4,5,2,4,3,1,2,1,5,1,4,1,4,56,98
+Female,disloyal Customer,58,Personal,Eco,1550,3,2,4,1,5,5,1,4,4,1,1,3,3,31,70
+Male,disloyal Customer,30,Business,Business,3817,1,5,5,3,4,5,1,5,3,1,3,3,3,7,9
+Male,Loyal Customer,27,Personal,Eco,3914,5,1,5,2,4,3,2,2,5,2,4,3,3,29,8
+Male,Loyal Customer,63,Personal,Eco Plus,1685,1,5,2,5,2,3,3,4,1,4,4,4,3,38,15
+Male,Loyal Customer,57,Business,Eco,1974,4,1,3,2,2,2,1,5,5,5,1,3,3,23,24
+Female,disloyal Customer,78,Personal,Eco,1455,5,1,1,5,1,2,3,5,1,1,1,1,1,8,5
+Female,disloyal Customer,78,Personal,Eco,3555,2,5,5,4,2,5,3,3,4,2,1,1,1,46,79
+Female,disloyal Customer,44,Business,Eco Plus,2936,3,2,3,3,1,5,4,2,2,5,3,5,1,49,75
+Female,disloyal Customer,30,Business,Business,1574,4,3,2,4,3,3,5,5,3,4,5,2,5,79,49
+Female,disloyal Customer,53,Personal,Eco Plus,578,3,1,3,5,3,4,2,4,1,4,4,4,5,12,2
+Male,disloyal Customer,59,Business,Eco Plus,1979,3,2,3,1,2,1,4,4,4,1,2,4,2,1,19
+Female,Loyal Customer,52,Business,Eco Plus,1975,4,5,4,1,2,5,3,3,3,3,1,2,1,22,35
+Male,Loyal Customer,75,Personal,Business,257,4,5,5,4,2,1,3,1,3,5,2,3,4,23,50
+Female,disloyal Customer,30,Personal,Eco Plus,3367,3,2,2,1,1,5,5,5,4,2,1,4,4,39,1
+Male,disloyal Customer,30,Business,Eco Plus,2903,4,2,3,3,1,2,5,1,4,5,3,1,5,72,54
+Male,Loyal Customer,46,Business,Business,278,4,3,2,5,1,2,5,2,2,2,2,3,4,53,91
+Male,disloyal Customer,63,Personal,Business,2956,4,5,2,3,2,3,2,1,4,5,4,5,3,13,51
+Male,disloyal Customer,30,Personal,Eco Plus,2769,1,2,1,2,3,4,5,2,2,4,3,5,2,81,81
+Male,disloyal Customer,28,Personal,Business,1708,4,1,4,5,2,5,3,2,4,3,1,3,2,97,76
+Male,disloyal Customer,27,Business,Business,3201,3,5,4,5,2,3,5,5,5,2,2,3,3,42,20
+Male,Loyal Customer,37,Personal,Business,2552,1,3,3,5,4,1,4,2,5,1,2,1,5,42,73
+Male,Loyal Customer,37,Personal,Eco,2896,1,4,3,4,5,3,3,1,3,1,4,5,4,63,34
+Female,disloyal Customer,31,Business,Business,1762,3,2,3,1,1,1,2,2,2,3,2,3,1,37,96
+Female,Loyal Customer,21,Business,Business,168,5,2,2,2,1,3,2,1,1,1,3,2,2,19,60
+Male,disloyal Customer,57,Personal,Business,1837,5,5,1,4,4,2,3,3,1,4,1,5,1,38,29
+Female,disloyal Customer,38,Business,Eco,2041,3,4,3,4,1,3,3,1,5,5,3,1,5,4,54
+Female,disloyal Customer,51,Business,Business,1164,2,2,3,5,4,2,1,1,1,5,4,3,1,46,38
+Male,Loyal Customer,56,Personal,Eco,377,1,2,5,1,1,5,3,5,3,1,5,5,3,91,60
+Female,Loyal Customer,58,Personal,Eco,1677,5,5,1,1,4,4,1,2,3,4,3,1,5,92,36
+Male,disloyal Customer,53,Business,Eco Plus,1568,3,5,5,4,4,1,1,4,5,4,3,3,1,81,61
+Female,Loyal Customer,70,Business,Business,3085,5,1,4,1,3,5,5,5,2,5,4,1,1,69,74
+Male,disloyal Customer,60,Business,Business,279,3,2,5,4,5,4,5,5,5,5,4,2,4,64,84
+Male,Loyal Customer,53,Business,Eco,868,1,4,5,1,1,1,3,4,1,1,3,5,4,57,43
+Male,Loyal Customer,51,Business,Eco,2072,4,2,2,3,3,1,2,5,4,1,5,4,3,95,38
+Male,disloyal Customer,54,Personal,Business,482,1,5,3,4,2,3,1,1,1,4,4,2,3,85,0
+Male,Loyal Customer,39,Personal,Business,176,4,2,4,2,2,3,3,5,4,1,5,5,4,53,51
+Male,disloyal Customer,62,Personal,Eco Plus,2269,2,5,4,4,2,2,5,2,4,4,2,3,4,31,68
+Male,disloyal Customer,25,Personal,Business,3969,5,4,1,4,3,4,3,5,2,5,3,2,5,48,89
+Male,disloyal Customer,26,Personal,Business,1480,4,3,4,1,2,2,4,4,2,2,1,3,2,11,43
+Female,Loyal Customer,36,Personal,Business,3635,5,4,1,3,5,4,2,1,5,5,4,1,5,66,57
+Male,disloyal Customer,21,Business,Business,1585,1,1,1,1,3,3,1,2,4,5,4,2,1,50,96
+Female,Loyal Customer,37,Business,Business,138,2,5,1,1,1,2,4,4,3,4,5,3,5,22,13
+Female,Loyal Customer,40,Personal,Eco Plus,692,2,3,2,2,1,1,3,4,4,2,2,3,3,56,91
+Male,disloyal Customer,26,Personal,Eco,1474,1,1,2,2,5,3,2,3,4,4,5,2,5,63,54
+Female,disloyal Customer,43,Personal,Business,229,4,1,3,3,3,3,2,4,1,5,5,1,4,4,26
+Male,Loyal Customer,46,Business,Eco Plus,1919,5,5,1,5,3,3,2,3,1,1,2,1,3,93,29
+Male,Loyal Customer,26,Personal,Eco Plus,3524,5,3,3,1,3,3,2,4,2,3,4,5,4,29,33
+Female,disloyal Customer,32,Personal,Eco,3025,4,2,5,4,3,4,5,1,2,5,3,5,5,23,55
+Male,disloyal Customer,47,Personal,Eco,1880,5,4,1,4,4,5,1,5,5,5,4,2,1,59,66
+Female,disloyal Customer,29,Business,Eco Plus,3139,5,1,4,3,1,3,2,2,5,3,2,1,1,47,93
+Male,disloyal Customer,30,Business,Eco,1851,1,2,3,4,4,4,2,4,2,5,2,4,2,37,66
+Male,Loyal Customer,26,Personal,Eco,3923,4,2,1,5,4,3,2,2,1,5,5,3,2,88,25
+Female,disloyal Customer,21,Business,Eco Plus,908,1,4,3,2,4,1,4,3,3,4,3,5,2,83,90
+Female,Loyal Customer,30,Personal,Eco Plus,726,2,3,3,4,5,5,3,4,2,5,1,2,3,46,61
+Female,disloyal Customer,75,Personal,Eco Plus,3190,3,3,4,5,1,4,2,3,4,2,3,3,3,68,71
+Female,Loyal Customer,33,Business,Business,1948,3,2,2,3,3,2,1,3,5,4,3,2,1,91,13
+Female,Loyal Customer,68,Personal,Business,1981,1,5,1,4,3,2,1,4,1,4,4,4,1,21,16
+Female,Loyal Customer,52,Personal,Eco,3735,2,1,4,1,5,5,1,4,1,5,4,1,3,78,86
+Female,Loyal Customer,67,Business,Eco,2364,5,4,4,1,4,4,1,1,1,5,1,2,1,65,2
+Female,disloyal Customer,35,Personal,Eco,1354,4,4,5,5,2,3,2,4,3,2,5,2,5,82,21
+Female,disloyal Customer,40,Personal,Eco Plus,264,5,5,5,4,3,4,5,5,3,4,3,2,2,51,63
+Female,Loyal Customer,42,Business,Business,1704,1,1,2,4,3,1,5,2,5,1,3,5,4,8,97
+Female,disloyal Customer,74,Business,Eco Plus,136,5,4,5,1,1,1,2,1,3,1,1,1,3,35,78
+Male,Loyal Customer,42,Personal,Eco Plus,1657,2,5,1,3,3,1,4,2,1,3,3,5,4,87,49
+Female,disloyal Customer,42,Business,Eco,3558,1,3,1,1,5,1,2,3,5,2,4,4,3,73,36
+Male,Loyal Customer,42,Business,Eco,1669,5,4,3,1,3,3,3,5,1,5,4,2,2,33,40
+Female,Loyal Customer,58,Personal,Eco Plus,2675,1,2,2,2,2,5,3,5,2,3,2,5,4,71,90
+Female,Loyal Customer,58,Business,Eco,2581,5,4,5,5,3,1,2,4,2,2,4,3,2,65,67
+Female,disloyal Customer,26,Personal,Eco Plus,2574,3,4,3,4,5,3,4,1,1,3,5,2,3,85,1
+Female,Loyal Customer,48,Personal,Eco Plus,1775,2,3,3,4,4,2,5,3,2,3,1,4,5,72,82
+Female,disloyal Customer,28,Personal,Business,2324,1,2,4,4,2,4,5,2,3,3,1,4,1,61,19
+Female,Loyal Customer,29,Business,Eco Plus,2276,1,4,3,1,2,2,4,3,4,5,4,1,3,80,19
+Male,disloyal Customer,71,Business,Eco,1744,1,1,2,3,2,4,1,4,3,3,4,5,5,8,30
+Male,Loyal Customer,78,Business,Eco Plus,2040,3,4,1,3,5,5,4,5,2,1,2,2,3,3,70
+Male,disloyal Customer,20,Personal,Eco,542,4,3,1,5,1,1,1,5,5,2,4,1,1,14,65
+Male,disloyal Customer,66,Business,Business,1586,1,4,1,4,3,4,3,2,4,4,2,5,5,78,95
+Male,disloyal Customer,28,Personal,Eco,1805,3,1,2,3,3,3,2,2,2,5,5,3,5,69,13
+Female,disloyal Customer,77,Business,Eco,1481,4,3,4,2,5,3,4,1,2,5,2,4,4,20,25
+Male,disloyal Customer,57,Personal,Eco Plus,886,1,1,5,3,3,4,2,4,5,2,2,2,1,39,99
+Male,disloyal Customer,28,Personal,Business,1732,2,2,4,5,4,5,5,4,3,2,5,3,3,93,85
+Male,disloyal Customer,41,Business,Eco Plus,693,1,3,5,2,3,3,4,4,5,1,3,3,4,60,29
+Male,Loyal Customer,26,Business,Eco Plus,3223,4,2,1,3,5,2,4,5,1,5,4,1,4,68,40
+Male,disloyal Customer,41,Business,Business,2815,5,2,2,3,5,4,5,2,4,2,3,1,2,68,66
+Female,Loyal Customer,65,Personal,Eco Plus,3493,1,4,1,3,4,4,4,4,3,4,4,4,1,79,0
+Male,disloyal Customer,68,Personal,Eco,1203,1,1,1,3,4,3,1,2,1,1,2,5,5,20,54
+Female,Loyal Customer,43,Personal,Eco,2753,2,3,1,3,5,4,1,4,5,2,4,2,2,50,94
+Female,disloyal Customer,46,Personal,Eco Plus,3379,5,4,1,5,4,1,1,3,2,1,4,4,5,60,8
+Female,Loyal Customer,69,Personal,Eco Plus,3326,3,3,3,5,2,4,3,3,4,2,1,5,1,73,50
+Female,disloyal Customer,49,Business,Business,2275,3,2,1,3,2,5,1,2,3,1,5,3,5,42,98
+Male,Loyal Customer,34,Personal,Eco Plus,3183,5,1,3,1,5,4,2,3,5,2,2,2,5,99,47
+Male,Loyal Customer,64,Personal,Eco Plus,2030,5,4,2,4,3,4,1,5,1,3,2,4,2,24,85
+Female,Loyal Customer,22,Personal,Business,3291,4,5,2,5,1,1,4,4,1,4,4,2,5,52,10
+Male,Loyal Customer,42,Personal,Business,1652,5,3,2,5,4,5,3,5,2,3,3,3,4,26,8
+Male,disloyal Customer,46,Personal,Eco Plus,580,5,1,1,5,1,1,1,5,1,4,2,2,1,69,60
+Male,disloyal Customer,20,Personal,Eco Plus,733,1,2,4,2,2,4,4,3,2,4,3,5,3,96,94
+Male,Loyal Customer,62,Personal,Business,3780,2,4,3,2,1,5,5,2,2,1,4,5,1,2,12
+Female,disloyal Customer,63,Personal,Eco Plus,3584,3,2,3,1,2,3,4,1,5,4,3,2,3,23,41
+Female,Loyal Customer,29,Business,Business,3556,3,3,2,1,3,2,5,2,2,3,1,2,4,27,69
+Female,disloyal Customer,74,Personal,Eco Plus,3584,2,4,4,5,5,5,3,3,5,4,3,5,5,65,35
+Male,disloyal Customer,40,Personal,Eco,1957,1,1,5,2,1,5,2,3,3,5,4,2,1,54,59
+Male,Loyal Customer,53,Personal,Eco Plus,750,5,2,5,1,1,4,4,4,4,1,4,4,1,16,1
+Male,Loyal Customer,42,Personal,Eco Plus,1471,1,3,4,2,3,1,5,3,3,2,4,5,2,35,44
+Male,Loyal Customer,23,Personal,Business,3090,5,3,3,3,4,4,5,2,3,1,5,3,5,65,1
+Male,disloyal Customer,36,Business,Eco,2058,3,5,2,1,5,5,1,2,4,3,1,2,5,99,28
+Male,disloyal Customer,18,Personal,Business,478,3,4,1,4,2,3,3,4,4,3,5,5,4,68,87
+Female,disloyal Customer,33,Personal,Eco Plus,3523,1,2,1,5,4,2,4,3,2,1,2,1,4,97,70
+Female,disloyal Customer,57,Business,Eco,2236,1,3,1,3,3,5,4,1,2,4,1,3,4,58,77
+Female,disloyal Customer,27,Personal,Eco Plus,3609,1,1,2,1,1,3,3,1,1,5,5,1,1,89,53
+Female,disloyal Customer,64,Business,Eco,3130,3,2,2,5,4,4,2,5,2,5,3,4,3,59,4
+Female,disloyal Customer,58,Business,Business,3777,1,2,1,5,1,4,5,3,1,5,3,5,3,43,10
+Male,Loyal Customer,46,Personal,Eco,2707,4,3,5,5,1,5,4,3,5,3,5,4,1,27,55
+Male,disloyal Customer,41,Personal,Eco Plus,3198,5,5,3,3,3,3,2,1,3,2,1,2,1,4,13
+Male,Loyal Customer,59,Personal,Eco Plus,970,5,4,2,5,3,5,3,4,3,3,3,2,5,18,43
+Male,disloyal Customer,56,Personal,Business,3355,2,4,2,4,2,5,4,5,4,2,3,5,4,89,87
+Male,Loyal Customer,62,Business,Eco,2598,2,3,3,4,1,1,3,3,1,5,2,3,2,38,57
+Male,Loyal Customer,46,Business,Eco Plus,2713,5,1,4,4,1,1,2,4,5,4,2,4,1,47,98
+Female,Loyal Customer,63,Personal,Eco,1965,1,4,5,5,1,5,1,4,4,1,1,3,5,95,85
+Female,disloyal Customer,43,Personal,Business,3256,4,2,2,1,2,1,5,2,1,1,5,3,4,95,82
+Female,Loyal Customer,74,Business,Business,353,1,1,5,2,4,3,1,2,1,5,1,1,5,9,21
+Male,disloyal Customer,19,Business,Eco,3833,1,2,3,5,3,1,5,4,2,4,2,2,5,97,38
+Female,disloyal Customer,63,Business,Eco Plus,1776,4,3,5,4,5,5,4,2,4,5,4,4,5,76,26
+Female,disloyal Customer,29,Personal,Business,805,2,5,3,4,4,5,5,1,3,2,3,4,5,21,3
+Female,Loyal Customer,23,Business,Eco Plus,2461,3,3,1,1,5,4,5,1,1,3,5,2,1,38,27
+Female,disloyal Customer,50,Personal,Business,2051,2,2,2,2,2,1,1,3,2,2,3,2,4,35,87
+Male,Loyal Customer,21,Business,Eco,1671,3,2,2,1,3,4,1,2,5,5,4,3,5,98,64
+Male,Loyal Customer,20,Business,Eco,2626,3,3,2,1,3,1,1,5,5,4,5,2,2,89,45
+Male,Loyal Customer,27,Business,Eco,262,1,5,4,5,1,1,2,3,1,3,5,2,5,39,38
+Male,Loyal Customer,63,Personal,Eco Plus,3679,4,5,3,1,1,2,5,1,1,5,5,4,1,63,49
+Female,Loyal Customer,53,Business,Eco Plus,876,5,3,1,3,1,5,2,3,5,4,4,2,1,52,58
+Female,disloyal Customer,63,Business,Business,2872,1,3,4,5,2,2,4,1,4,4,2,5,4,2,38
+Male,disloyal Customer,24,Business,Business,2078,2,3,1,4,3,1,1,2,2,3,1,1,5,7,52
+Male,Loyal Customer,56,Business,Eco,3729,4,2,2,1,1,1,5,4,1,1,1,4,2,10,63
+Female,Loyal Customer,62,Personal,Eco Plus,328,5,5,4,3,2,1,2,4,1,1,5,3,5,3,33
+Male,Loyal Customer,53,Personal,Business,3548,1,1,5,5,2,4,3,1,1,1,4,5,4,64,50
+Female,Loyal Customer,36,Personal,Business,2756,4,2,5,1,1,5,1,4,3,5,1,3,4,84,0
+Female,Loyal Customer,50,Business,Business,2683,4,5,2,3,3,2,4,4,3,1,5,5,4,72,42
+Female,Loyal Customer,70,Personal,Eco Plus,3992,3,3,3,5,1,5,3,1,5,2,4,1,4,33,64
+Female,disloyal Customer,23,Business,Business,3425,4,2,2,2,1,2,5,1,4,2,1,1,4,41,36
+Female,Loyal Customer,53,Business,Business,297,2,1,5,3,2,3,2,5,5,1,5,2,2,63,2
+Male,Loyal Customer,36,Business,Eco,2931,5,3,3,1,5,2,5,5,3,5,4,2,4,80,70
+Male,disloyal Customer,43,Personal,Eco,1580,5,4,1,3,5,2,2,1,1,1,5,2,3,87,1
+Male,Loyal Customer,42,Business,Eco,2588,5,3,1,1,2,2,2,5,2,4,2,1,1,17,27
+Female,Loyal Customer,77,Business,Eco,1729,1,1,2,2,5,2,1,3,4,5,2,3,4,24,19
+Male,Loyal Customer,36,Business,Eco,230,4,3,2,5,2,4,5,3,1,5,3,3,2,48,72
+Female,disloyal Customer,36,Business,Eco,1093,5,2,3,4,5,2,1,4,5,2,3,5,5,23,22
+Female,disloyal Customer,31,Business,Business,423,4,5,4,2,1,2,1,3,4,1,5,2,1,96,81
+Male,Loyal Customer,65,Personal,Eco,2476,2,5,3,5,1,2,3,4,4,1,2,3,2,57,79
+Female,disloyal Customer,52,Business,Business,2403,1,3,1,5,2,3,5,1,1,2,2,1,2,66,83
+Female,Loyal Customer,69,Personal,Eco Plus,1236,3,4,3,1,5,5,3,1,3,2,4,5,3,41,64
+Female,Loyal Customer,68,Business,Eco Plus,3344,2,1,1,3,1,1,4,1,4,2,4,5,4,95,35
+Male,Loyal Customer,38,Personal,Eco Plus,568,3,3,4,1,3,4,3,1,3,1,4,4,4,81,61
+Female,Loyal Customer,76,Business,Business,1327,3,3,3,4,1,4,1,5,4,1,2,5,5,71,55
+Male,disloyal Customer,30,Business,Eco,3077,2,3,2,4,3,4,2,4,2,1,1,2,3,8,68
+Female,Loyal Customer,64,Personal,Eco,2321,1,4,3,3,1,4,2,2,1,4,4,2,1,50,66
+Male,disloyal Customer,72,Personal,Business,1823,3,2,1,3,1,3,3,5,5,2,5,2,3,8,59
+Male,disloyal Customer,18,Personal,Eco,3048,3,2,1,2,3,1,1,2,3,3,4,3,5,32,13
+Male,disloyal Customer,70,Personal,Business,1568,4,5,5,4,4,2,5,1,4,3,2,1,4,23,82
+Female,disloyal Customer,26,Business,Eco Plus,737,1,4,5,4,4,4,4,1,2,1,5,5,2,2,70
+Male,Loyal Customer,62,Business,Eco,2146,3,5,4,3,3,3,2,1,2,5,4,2,3,95,13
+Female,Loyal Customer,49,Business,Eco,2255,5,1,3,1,5,2,4,4,4,4,4,4,2,52,2
+Female,disloyal Customer,66,Business,Eco Plus,3695,2,3,1,4,2,5,2,1,4,2,2,3,4,41,49
+Female,disloyal Customer,44,Business,Eco Plus,3747,2,2,2,4,1,5,5,3,3,1,1,5,4,0,18
+Female,Loyal Customer,44,Personal,Business,2859,2,5,2,4,5,4,1,3,1,3,4,2,1,9,17
+Female,disloyal Customer,46,Business,Eco Plus,3165,5,5,4,4,3,4,4,3,4,1,5,2,2,44,37
+Male,Loyal Customer,25,Personal,Eco Plus,1961,1,4,4,3,3,4,2,4,4,5,2,3,3,77,65
+Female,disloyal Customer,70,Personal,Eco Plus,980,5,1,4,4,4,3,2,1,3,3,1,1,5,64,60
+Female,disloyal Customer,52,Business,Business,3247,2,4,4,4,3,1,3,4,2,1,4,5,2,21,30
+Male,disloyal Customer,61,Business,Eco,3088,5,4,2,3,3,5,1,1,2,2,3,1,4,76,52
+Female,disloyal Customer,65,Personal,Business,2333,3,5,5,1,2,3,3,4,2,5,2,1,4,37,79
+Female,Loyal Customer,66,Business,Business,2194,4,1,5,2,4,3,1,1,1,2,2,1,5,23,26
+Male,Loyal Customer,38,Business,Eco Plus,1218,4,4,2,4,2,5,1,3,1,4,4,3,4,94,72
+Male,Loyal Customer,78,Business,Business,2514,3,5,4,3,4,2,3,1,1,1,5,5,3,66,56
+Male,disloyal Customer,39,Personal,Business,752,1,2,3,2,3,2,1,3,4,1,2,1,1,24,65
+Female,disloyal Customer,72,Personal,Business,2242,4,5,5,2,5,4,3,5,4,5,1,4,1,11,63
+Female,Loyal Customer,53,Business,Eco,403,1,1,4,1,4,2,4,1,2,1,4,4,3,20,57
+Male,disloyal Customer,26,Personal,Business,3730,1,4,5,1,1,4,4,3,1,1,2,3,2,76,73
+Female,Loyal Customer,68,Business,Eco,1281,2,2,2,1,4,3,4,1,3,1,1,2,3,19,79
+Female,Loyal Customer,77,Business,Eco Plus,1383,3,3,3,5,3,4,1,1,1,3,4,3,2,70,20
+Male,disloyal Customer,74,Personal,Business,1217,3,5,4,3,1,5,4,3,1,5,3,1,1,4,25
+Female,disloyal Customer,66,Personal,Eco,3004,1,1,1,2,1,5,1,5,3,1,2,3,4,21,62
+Male,Loyal Customer,26,Personal,Eco Plus,2149,3,3,1,3,3,1,4,1,1,4,1,2,5,31,32
+Male,disloyal Customer,21,Personal,Eco,3936,2,4,3,1,4,5,2,1,2,3,1,1,4,52,64
+Male,Loyal Customer,56,Personal,Eco Plus,1957,2,4,3,2,1,4,3,1,5,3,5,4,3,19,95
+Male,disloyal Customer,37,Business,Eco,3587,5,5,2,2,1,5,1,4,3,3,4,1,4,4,86
+Female,disloyal Customer,42,Business,Eco,1850,2,5,4,3,1,5,5,5,2,1,5,2,3,39,87
+Female,Loyal Customer,77,Personal,Eco,2460,1,5,1,5,5,1,5,2,3,2,1,4,5,34,97
+Female,disloyal Customer,52,Personal,Business,3197,1,3,2,1,5,2,4,4,5,2,4,1,4,5,65
+Female,disloyal Customer,27,Personal,Eco Plus,2559,5,3,1,2,4,3,2,5,2,2,4,5,5,47,88
+Female,Loyal Customer,76,Business,Eco Plus,949,3,3,1,5,1,2,3,5,3,4,3,1,5,85,48
+Female,Loyal Customer,65,Business,Eco Plus,2166,3,5,5,2,2,2,1,4,3,1,1,5,5,90,37
+Female,Loyal Customer,43,Business,Eco,2770,3,4,3,5,5,3,5,4,5,1,4,2,2,82,67
+Female,disloyal Customer,65,Business,Business,2684,5,2,5,3,3,5,2,4,3,2,3,2,3,84,68
+Male,disloyal Customer,55,Business,Eco,128,2,4,5,5,1,2,2,5,2,4,4,5,2,12,98
+Male,Loyal Customer,68,Personal,Eco,1501,1,3,4,3,2,4,1,3,1,4,4,4,2,67,9
+Male,Loyal Customer,33,Personal,Eco Plus,1741,3,1,3,4,5,5,1,4,2,4,2,1,1,64,11
+Female,Loyal Customer,64,Personal,Eco Plus,3506,4,3,2,4,4,2,3,2,4,3,3,4,5,65,61
+Male,Loyal Customer,75,Business,Eco Plus,1241,5,2,1,1,3,1,5,5,4,1,3,4,2,85,23
+Female,Loyal Customer,73,Personal,Eco Plus,2784,2,4,3,3,3,5,5,1,3,4,5,2,3,37,61
+Female,disloyal Customer,58,Business,Eco,3083,3,5,1,4,1,4,1,3,3,4,5,3,4,62,2
+Male,Loyal Customer,24,Personal,Business,2950,4,3,3,2,3,3,5,2,4,2,3,1,4,88,36
+Male,Loyal Customer,62,Personal,Business,781,4,1,3,1,5,3,2,4,1,5,2,3,4,13,8
+Female,Loyal Customer,18,Personal,Eco Plus,2336,3,3,1,4,5,1,1,3,3,2,3,2,2,47,76
+Male,Loyal Customer,42,Business,Eco,2060,5,4,1,3,1,2,1,5,4,2,3,3,5,89,10
+Female,disloyal Customer,22,Business,Eco Plus,1127,5,2,2,1,4,5,4,4,4,2,4,4,3,33,0
+Female,disloyal Customer,76,Personal,Eco Plus,613,1,1,4,1,2,2,3,1,5,4,3,3,1,57,81
+Male,Loyal Customer,67,Personal,Eco,2649,3,3,4,1,5,4,1,2,4,2,4,4,5,99,32
+Female,Loyal Customer,50,Personal,Eco,722,3,2,4,1,5,3,3,2,4,1,3,3,4,73,40
+Male,disloyal Customer,26,Business,Business,2154,3,5,2,3,5,1,5,5,2,1,2,5,1,31,6
+Male,disloyal Customer,60,Personal,Eco Plus,1296,4,2,4,2,2,3,4,2,4,2,2,3,4,15,62
+Male,disloyal Customer,51,Personal,Business,964,2,4,5,4,4,5,2,5,3,2,1,1,2,59,59
+Female,disloyal Customer,38,Business,Business,1856,1,2,4,1,3,5,1,1,4,4,5,1,5,81,87
+Male,Loyal Customer,42,Business,Eco Plus,3718,4,4,1,4,5,2,3,4,4,3,5,4,3,85,34
+Female,disloyal Customer,32,Personal,Eco Plus,3974,1,2,2,1,2,4,1,3,4,1,1,5,2,59,22
+Female,disloyal Customer,56,Business,Business,3183,4,3,4,5,3,3,2,5,3,4,4,1,3,51,21
+Female,disloyal Customer,62,Personal,Business,502,3,5,3,3,1,3,4,3,4,1,1,5,2,0,78
+Male,Loyal Customer,27,Personal,Eco Plus,1017,4,2,2,5,5,3,5,1,2,2,5,3,3,35,73
+Male,disloyal Customer,26,Personal,Eco,2364,5,3,1,4,5,3,4,3,2,4,3,5,4,54,21
+Male,disloyal Customer,73,Personal,Eco,2560,5,5,2,5,1,1,4,3,2,2,4,4,1,39,90
+Male,disloyal Customer,24,Business,Business,2719,1,4,5,4,2,5,1,3,5,2,5,4,4,79,4
+Male,Loyal Customer,22,Personal,Eco Plus,1386,3,5,4,3,2,3,4,2,1,3,3,2,2,78,48
+Male,disloyal Customer,42,Personal,Eco,1255,1,3,2,5,5,2,1,3,1,5,2,4,4,87,39
+Female,disloyal Customer,75,Personal,Business,152,4,5,3,4,5,3,1,2,5,4,4,1,1,81,11
+Male,Loyal Customer,59,Business,Business,1297,3,2,1,1,2,1,4,5,1,1,4,2,3,22,52
+Male,disloyal Customer,69,Personal,Eco Plus,2715,2,1,1,5,1,3,2,3,4,4,2,5,5,39,87
+Male,disloyal Customer,63,Business,Eco,519,2,3,1,2,4,1,1,5,5,5,2,2,4,75,78
+Female,Loyal Customer,27,Personal,Eco Plus,3058,4,5,2,5,2,5,1,5,2,5,4,5,3,86,22
+Female,Loyal Customer,62,Personal,Business,1935,3,2,2,2,5,4,3,5,4,4,5,4,2,37,77
+Female,Loyal Customer,50,Business,Eco,3529,5,4,5,1,1,1,1,5,5,4,4,3,4,47,34
+Male,Loyal Customer,35,Business,Eco,3908,2,3,5,3,2,4,1,3,3,3,3,3,4,9,12
+Female,Loyal Customer,25,Personal,Business,421,1,2,4,3,3,5,2,3,3,5,4,4,5,10,50
+Male,Loyal Customer,70,Personal,Business,607,2,3,4,2,3,5,4,5,4,3,3,4,1,34,37
+Male,Loyal Customer,75,Personal,Business,696,1,4,1,4,2,4,4,4,5,5,3,5,4,98,16
+Female,disloyal Customer,45,Business,Eco,505,2,2,4,5,1,5,3,5,5,2,4,1,4,0,69
+Female,disloyal Customer,19,Personal,Eco,2459,4,4,1,1,5,2,5,3,4,3,2,1,2,94,34
+Female,disloyal Customer,75,Business,Eco,2494,4,4,2,5,5,2,3,1,1,5,5,3,4,67,93
+Female,disloyal Customer,23,Business,Business,487,2,1,4,3,1,1,1,2,1,5,2,2,3,37,76
+Female,disloyal Customer,67,Business,Eco Plus,3478,2,4,2,3,1,2,1,4,2,4,3,4,4,34,36
+Male,Loyal Customer,37,Personal,Eco,2546,1,2,3,2,2,5,2,2,5,3,2,5,4,80,86
+Male,disloyal Customer,28,Personal,Eco,2062,5,3,2,3,1,4,4,2,2,5,3,5,3,30,99
+Male,Loyal Customer,46,Business,Business,2107,2,5,4,2,3,2,3,3,3,3,2,5,5,1,36
+Male,disloyal Customer,39,Business,Eco,590,1,4,4,1,1,3,3,2,4,1,1,5,4,24,10
+Male,disloyal Customer,41,Personal,Eco Plus,3124,2,1,2,1,3,1,4,1,2,1,5,1,4,80,34
+Male,Loyal Customer,67,Business,Eco Plus,3725,5,5,5,2,5,2,5,5,3,3,1,1,4,55,71
+Female,disloyal Customer,54,Business,Eco Plus,2446,4,3,3,1,3,5,5,1,1,5,4,2,5,34,23
+Female,Loyal Customer,66,Business,Eco,3187,1,1,1,3,3,3,3,5,5,3,5,2,4,72,15
+Female,disloyal Customer,65,Personal,Eco Plus,362,3,4,5,5,2,2,4,5,5,5,2,2,4,17,28
+Female,Loyal Customer,18,Personal,Eco,2966,3,2,2,1,1,4,5,2,3,4,4,1,2,83,13
+Female,disloyal Customer,79,Business,Business,3829,3,5,1,3,3,4,3,2,5,4,5,5,4,92,39
+Male,disloyal Customer,58,Personal,Eco,2056,5,2,4,5,2,1,2,4,3,3,3,1,2,26,11
+Male,disloyal Customer,70,Business,Eco Plus,842,1,1,4,5,3,4,3,4,4,3,4,3,1,33,51
+Female,Loyal Customer,38,Business,Eco,2592,3,2,1,1,1,3,1,1,1,1,5,3,2,15,62
+Male,disloyal Customer,20,Personal,Eco Plus,993,3,3,4,5,5,2,2,4,3,5,1,2,3,42,89
+Male,Loyal Customer,37,Business,Business,1247,3,3,5,5,3,3,2,2,4,2,1,5,2,16,97
+Female,disloyal Customer,32,Business,Eco Plus,3025,3,3,3,4,3,4,5,5,1,1,1,4,5,49,12
+Male,disloyal Customer,21,Personal,Eco Plus,566,5,2,3,4,5,2,2,4,4,1,3,4,3,64,13
+Female,Loyal Customer,53,Personal,Business,3989,5,5,2,2,1,4,3,3,2,1,4,2,2,97,66
+Female,Loyal Customer,25,Business,Eco,3614,2,5,1,5,2,3,5,4,4,1,2,4,5,52,44
+Male,disloyal Customer,35,Business,Eco,1889,4,5,1,2,3,1,2,2,3,2,5,1,3,57,45
+Male,disloyal Customer,72,Personal,Eco Plus,1970,3,3,4,4,2,5,4,4,2,5,4,3,3,92,32
+Female,Loyal Customer,42,Personal,Eco Plus,2340,2,3,2,3,3,4,3,3,2,1,1,2,1,71,68
+Female,Loyal Customer,78,Business,Business,2681,3,2,4,1,3,1,4,2,2,1,2,1,3,79,59
+Male,Loyal Customer,44,Business,Eco,714,1,1,1,3,4,3,3,2,2,5,3,1,2,7,66
+Female,disloyal Customer,48,Personal,Eco,3906,1,4,4,4,1,2,2,2,1,2,2,4,1,84,86
+Male,Loyal Customer,61,Business,Business,946,4,3,2,3,2,1,1,1,5,2,5,1,3,6,53
+Female,Loyal Customer,71,Personal,Business,1992,2,5,2,4,1,2,3,5,5,3,2,4,2,28,4
+Female,Loyal Customer,69,Personal,Eco,2874,3,1,5,1,3,4,1,1,2,2,5,4,1,78,86
+Male,disloyal Customer,57,Business,Eco,653,4,1,4,1,4,3,5,5,2,1,1,3,1,74,74
+Female,disloyal Customer,24,Business,Eco Plus,305,1,4,3,1,1,3,4,2,2,3,1,3,3,61,85
+Female,Loyal Customer,76,Business,Eco,3603,1,1,1,1,3,4,2,3,1,2,1,3,5,69,65
+Female,disloyal Customer,65,Personal,Business,2204,4,2,2,1,3,3,4,3,4,4,5,3,5,85,70
+Female,disloyal Customer,45,Personal,Business,2939,3,3,1,3,5,4,4,4,1,2,4,3,2,49,33
+Female,disloyal Customer,24,Personal,Business,3085,5,4,2,3,4,1,2,3,3,2,5,3,4,54,0
+Male,Loyal Customer,23,Personal,Eco,236,5,5,4,4,5,5,4,1,1,3,2,2,3,68,18
+Male,Loyal Customer,70,Business,Business,2090,2,5,5,1,5,4,2,3,4,5,1,4,5,6,45
+Male,Loyal Customer,69,Business,Eco,1891,1,1,1,1,4,5,3,1,3,5,1,5,1,91,8
+Male,Loyal Customer,64,Personal,Business,3744,3,4,3,1,1,4,1,1,2,5,3,4,1,43,30
+Male,disloyal Customer,58,Personal,Business,1975,5,2,1,5,5,1,5,2,5,2,3,5,4,81,73
+Female,Loyal Customer,27,Personal,Eco Plus,1980,4,3,3,3,4,2,4,2,3,1,4,3,5,50,2
+Male,disloyal Customer,79,Personal,Eco Plus,3009,2,1,1,4,1,4,3,3,4,2,3,2,3,46,84
+Male,Loyal Customer,54,Personal,Business,1603,3,3,1,1,5,3,3,5,5,3,1,3,3,37,1
+Male,Loyal Customer,36,Business,Eco,2456,1,4,1,1,3,5,4,3,5,2,1,5,5,36,36
+Female,Loyal Customer,45,Personal,Eco,816,1,1,5,5,5,2,4,5,3,1,1,3,4,41,95
+Male,Loyal Customer,33,Personal,Business,3089,1,5,3,1,4,1,1,4,2,3,5,1,3,90,68
+Male,Loyal Customer,24,Business,Business,108,3,2,3,1,1,1,1,5,5,4,1,1,4,9,50
+Female,disloyal Customer,47,Personal,Eco,2732,4,3,3,4,3,3,4,1,4,1,5,2,5,28,53
+Female,disloyal Customer,30,Personal,Eco,1315,3,5,1,1,3,5,5,2,5,1,4,3,5,2,15
+Male,disloyal Customer,34,Business,Business,202,3,3,1,3,1,1,1,5,4,4,4,5,1,31,62
+Male,disloyal Customer,57,Business,Business,3636,4,3,2,1,5,4,2,1,3,2,1,4,5,52,45
+Male,disloyal Customer,46,Business,Business,1874,5,3,3,2,2,1,4,4,5,5,4,3,2,49,6
+Female,disloyal Customer,46,Personal,Eco Plus,819,2,3,2,1,4,3,2,1,4,5,1,3,3,15,60
+Female,Loyal Customer,42,Personal,Eco Plus,3354,1,2,2,4,1,5,2,2,4,2,2,2,1,49,70
+Female,Loyal Customer,79,Business,Eco,2482,4,5,4,5,2,2,1,3,2,4,4,3,2,10,71
+Female,Loyal Customer,44,Personal,Business,2295,2,5,5,5,2,2,1,5,3,1,1,1,4,46,99
+Male,Loyal Customer,54,Business,Eco Plus,2923,3,5,1,1,1,3,3,4,3,1,1,3,5,57,52
+Male,Loyal Customer,52,Personal,Eco Plus,1394,5,4,1,3,2,5,1,3,4,5,2,4,5,19,36
+Male,Loyal Customer,62,Business,Business,2551,1,5,5,2,4,3,1,3,2,4,5,1,4,92,1
+Male,disloyal Customer,37,Personal,Business,145,2,2,3,3,5,2,4,2,2,3,3,3,2,36,17
+Male,disloyal Customer,52,Personal,Eco,3164,5,1,2,2,1,5,5,2,1,5,3,4,1,88,12
+Male,disloyal Customer,54,Personal,Eco,1565,5,1,5,5,5,1,1,1,4,3,1,4,3,49,8
+Female,disloyal Customer,18,Personal,Business,3124,5,5,2,4,1,4,5,3,3,1,3,1,4,21,13
+Female,disloyal Customer,23,Personal,Eco Plus,1487,3,2,5,1,1,3,1,3,2,5,3,4,5,81,2
+Female,Loyal Customer,70,Business,Eco Plus,232,1,1,4,4,2,1,1,4,5,5,5,4,5,98,19
+Male,disloyal Customer,22,Business,Eco Plus,1309,4,4,5,4,2,5,2,2,5,5,2,3,5,53,61
+Male,Loyal Customer,68,Personal,Eco Plus,2532,5,5,2,2,5,4,4,1,1,2,3,3,3,74,81
+Female,Loyal Customer,66,Personal,Business,1057,4,4,4,3,2,1,2,3,2,2,2,1,4,15,10
+Female,disloyal Customer,18,Personal,Eco,3692,4,1,5,1,2,3,5,5,4,2,1,5,5,40,46
+Female,Loyal Customer,38,Business,Eco Plus,1925,5,1,1,4,4,3,3,2,2,1,4,1,1,8,74
+Female,Loyal Customer,63,Personal,Business,2395,3,5,1,3,5,1,3,4,4,5,5,2,2,12,12
+Female,disloyal Customer,76,Personal,Eco,2696,2,3,2,4,3,3,1,5,4,3,4,2,2,3,22
+Male,disloyal Customer,23,Personal,Eco Plus,1512,5,5,2,2,2,5,3,2,2,4,5,2,1,20,70
+Female,disloyal Customer,67,Personal,Business,223,5,1,5,4,5,1,3,5,2,3,3,1,4,64,80
+Male,disloyal Customer,19,Business,Eco Plus,2947,4,4,2,4,4,4,3,1,4,2,3,1,1,63,16
+Male,disloyal Customer,53,Business,Eco Plus,2266,3,3,4,1,1,1,3,1,1,1,3,5,2,25,52
+Female,disloyal Customer,20,Business,Eco Plus,3610,3,4,3,3,3,1,1,3,2,1,5,2,1,78,9
+Male,Loyal Customer,76,Business,Eco Plus,2999,1,1,4,3,2,5,4,5,4,5,3,1,3,71,47
+Female,Loyal Customer,43,Business,Business,3236,5,4,2,5,3,2,3,3,2,4,3,2,4,37,21
+Male,Loyal Customer,31,Personal,Eco,1549,5,5,2,1,3,5,5,4,1,4,3,2,1,49,89
+Male,Loyal Customer,71,Business,Business,1582,2,4,4,4,5,2,4,5,4,1,3,1,5,87,13
+Female,disloyal Customer,70,Personal,Eco Plus,1708,5,1,2,1,5,4,5,5,3,3,4,1,4,34,72
+Male,disloyal Customer,27,Business,Eco,549,1,3,1,4,4,4,2,3,2,5,4,3,5,62,76
+Male,Loyal Customer,47,Personal,Eco,2442,4,2,1,4,3,3,2,3,2,2,4,5,4,62,88
+Male,disloyal Customer,78,Personal,Eco Plus,2744,2,4,2,2,5,5,3,4,4,1,1,3,4,29,34
+Male,disloyal Customer,44,Personal,Business,2387,1,1,2,1,1,1,5,3,2,2,2,2,4,36,47
+Female,disloyal Customer,66,Personal,Eco,131,1,2,1,2,2,4,3,1,1,3,3,3,5,58,23
+Female,disloyal Customer,46,Business,Eco Plus,2435,1,5,2,4,1,3,2,2,5,4,1,1,3,48,39
+Male,disloyal Customer,39,Personal,Eco,1137,1,4,4,4,3,1,3,1,1,4,5,3,1,80,17
+Female,Loyal Customer,70,Business,Eco Plus,2947,2,5,1,1,5,2,5,4,1,3,4,1,5,50,85
+Male,Loyal Customer,62,Business,Eco Plus,3008,2,4,1,2,1,1,5,5,2,3,1,1,1,80,86
+Male,Loyal Customer,22,Personal,Business,2203,4,5,2,2,2,1,4,4,4,3,3,4,4,93,71
+Male,disloyal Customer,58,Personal,Business,911,2,2,4,1,2,4,2,4,3,3,3,5,2,43,51
+Male,Loyal Customer,31,Personal,Eco Plus,1376,2,3,5,2,3,1,1,2,4,4,3,1,5,86,71
+Female,Loyal Customer,23,Business,Eco Plus,1473,1,4,4,2,3,5,2,4,2,4,5,2,3,86,49
+Male,disloyal Customer,66,Personal,Business,3453,2,4,5,2,2,1,1,1,5,2,5,1,5,38,89
+Female,Loyal Customer,63,Business,Business,2940,2,2,4,2,4,5,5,2,1,1,2,5,1,69,19
+Female,Loyal Customer,64,Personal,Eco Plus,262,3,5,4,1,5,4,1,3,3,4,4,5,3,24,59
+Male,disloyal Customer,61,Business,Eco Plus,1438,1,5,3,1,1,4,1,3,5,4,5,2,1,59,95
+Male,Loyal Customer,55,Business,Eco,2309,1,4,1,1,3,5,3,1,2,4,4,2,3,59,44
+Male,disloyal Customer,41,Business,Eco Plus,3869,3,5,4,1,5,5,5,2,1,5,5,5,5,50,53
+Female,disloyal Customer,34,Business,Business,2058,1,1,2,5,4,3,5,5,2,4,5,2,1,99,19
+Male,Loyal Customer,18,Personal,Business,1405,5,5,2,5,4,2,3,5,1,2,2,4,5,89,59
+Female,Loyal Customer,49,Business,Eco,1311,1,4,1,1,4,2,5,3,1,2,4,1,3,34,93
+Female,Loyal Customer,40,Personal,Business,3590,3,2,3,3,3,2,3,3,2,3,1,5,1,45,97
+Female,Loyal Customer,47,Personal,Eco,354,4,4,5,5,5,3,4,5,2,1,5,3,3,35,66
+Male,disloyal Customer,19,Personal,Business,644,1,5,4,2,2,1,1,4,3,5,1,5,3,18,51
+Male,Loyal Customer,51,Personal,Eco,767,5,2,1,5,1,1,4,3,1,4,5,3,4,28,27
+Male,disloyal Customer,46,Business,Eco,2581,2,4,2,5,1,5,2,3,1,2,3,4,5,24,85
+Female,disloyal Customer,54,Personal,Eco,2291,3,3,1,3,1,1,3,3,4,1,1,3,1,51,57
+Female,disloyal Customer,42,Business,Eco Plus,307,1,4,5,4,3,4,4,1,5,1,4,2,5,30,47
+Male,Loyal Customer,45,Business,Eco Plus,1590,2,1,3,4,1,4,2,3,1,2,4,4,1,44,81
+Male,Loyal Customer,54,Business,Eco,1881,4,2,4,5,1,3,5,2,4,1,3,4,4,49,56
+Male,disloyal Customer,63,Personal,Eco,3063,3,1,5,5,5,1,2,1,4,4,3,2,3,23,13
+Male,Loyal Customer,77,Business,Eco,437,1,2,1,1,2,5,2,3,2,5,1,1,2,82,46
+Male,Loyal Customer,55,Personal,Business,1042,4,3,2,2,3,4,2,4,5,4,2,1,2,84,91
+Male,disloyal Customer,65,Personal,Eco,2723,3,4,1,2,1,2,1,1,3,2,3,3,5,0,24
+Male,disloyal Customer,34,Personal,Eco Plus,2932,1,2,3,5,1,1,4,4,1,3,3,3,3,86,41
+Male,disloyal Customer,61,Personal,Business,3744,5,4,3,1,4,3,4,5,3,3,2,4,2,46,17
+Female,disloyal Customer,66,Personal,Eco Plus,934,3,1,5,5,2,2,5,5,3,3,5,4,5,7,8
+Female,disloyal Customer,48,Business,Eco,1445,1,5,5,1,5,5,1,4,2,1,1,3,1,89,86
+Female,Loyal Customer,59,Business,Business,1850,4,3,1,1,3,4,4,3,3,3,4,1,2,13,66
+Female,Loyal Customer,34,Personal,Eco,1439,4,3,4,1,1,2,2,4,2,5,1,1,4,37,98
+Male,Loyal Customer,32,Business,Eco Plus,3955,3,5,5,3,1,2,3,2,5,2,2,1,1,2,19
+Female,Loyal Customer,59,Business,Eco Plus,3365,3,1,4,3,1,3,3,2,4,4,5,2,4,18,70
+Male,disloyal Customer,71,Personal,Business,3526,4,5,2,2,5,2,3,5,1,5,1,1,2,97,62
+Female,disloyal Customer,59,Personal,Eco,2483,2,3,3,5,4,1,5,1,4,5,5,1,4,54,50
+Female,Loyal Customer,78,Personal,Eco,3923,1,2,5,2,3,3,3,1,3,5,3,5,3,9,58
+Male,Loyal Customer,36,Business,Eco,1036,4,3,4,4,1,5,1,5,2,4,5,4,5,43,15
+Male,Loyal Customer,46,Personal,Eco,1070,4,3,5,1,2,1,5,3,1,1,2,4,1,78,93
+Female,disloyal Customer,32,Personal,Eco Plus,2336,5,1,1,2,5,4,3,1,5,3,2,1,4,1,53
+Female,Loyal Customer,59,Business,Business,3297,3,1,4,4,4,5,5,1,1,1,4,5,4,30,44
+Female,Loyal Customer,45,Business,Business,205,3,1,5,4,1,4,5,4,1,2,4,1,1,55,81
+Female,disloyal Customer,48,Business,Eco,692,2,1,4,4,4,3,4,3,1,3,3,3,3,11,28
+Male,Loyal Customer,41,Personal,Eco Plus,2844,5,2,5,4,5,4,2,3,2,3,2,3,2,70,61
+Female,Loyal Customer,64,Personal,Eco,1631,2,3,4,4,5,1,3,1,1,4,5,3,5,85,85
+Female,Loyal Customer,22,Personal,Business,3555,2,5,5,3,5,5,5,4,2,1,5,3,5,92,17
+Male,Loyal Customer,47,Personal,Eco,3643,2,1,2,4,1,5,5,1,1,3,2,4,5,1,6
+Male,Loyal Customer,58,Personal,Eco,3071,5,4,3,1,3,1,4,3,1,1,1,4,3,36,33
+Female,disloyal Customer,22,Personal,Business,3077,3,3,3,4,2,4,2,1,4,4,1,4,4,7,57
+Female,disloyal Customer,36,Personal,Eco Plus,1447,3,2,5,1,3,1,4,1,2,4,5,2,4,16,17
+Male,Loyal Customer,38,Personal,Business,520,2,1,4,3,3,2,1,2,5,2,3,3,3,24,70
+Female,Loyal Customer,28,Business,Eco,1561,2,4,2,4,5,1,1,5,1,5,1,4,1,43,86
+Female,disloyal Customer,38,Business,Eco Plus,3381,2,4,4,5,2,1,5,3,3,1,1,4,1,55,2
+Male,Loyal Customer,69,Personal,Eco Plus,2524,3,2,4,3,3,2,1,2,1,3,2,4,4,77,21
+Male,disloyal Customer,54,Business,Eco Plus,1366,5,3,4,1,1,3,5,5,1,5,2,1,1,66,21
+Male,disloyal Customer,38,Business,Eco,617,2,2,2,2,4,5,5,4,4,3,5,3,5,75,44
+Male,Loyal Customer,21,Business,Eco,3338,2,1,5,1,4,3,4,4,4,2,3,2,3,11,99
+Female,Loyal Customer,37,Business,Business,3823,1,5,3,4,2,3,5,4,5,5,1,5,3,1,68
+Male,Loyal Customer,35,Personal,Eco,3924,5,4,5,3,4,5,2,3,3,2,2,3,1,60,60
+Female,disloyal Customer,45,Business,Eco,834,1,3,2,1,4,2,5,4,2,5,3,5,4,64,7
+Female,disloyal Customer,74,Business,Eco Plus,3017,4,5,4,5,1,2,4,2,1,1,1,4,5,58,85
+Female,disloyal Customer,76,Business,Eco Plus,3448,5,2,2,4,1,5,2,1,2,4,4,1,3,40,61
+Male,Loyal Customer,38,Business,Eco Plus,3573,3,3,2,5,5,4,2,4,1,1,4,2,2,46,8
+Female,disloyal Customer,42,Personal,Eco,1552,4,2,4,1,3,5,4,4,3,3,4,3,4,20,47
+Male,disloyal Customer,58,Business,Business,3726,1,2,1,3,3,3,2,1,1,1,4,1,2,53,80
+Female,disloyal Customer,56,Business,Eco,1507,4,3,1,2,5,5,2,1,5,4,1,4,4,51,45
+Male,disloyal Customer,37,Personal,Eco,2466,3,4,3,2,5,1,4,4,4,5,3,3,4,97,8
+Male,disloyal Customer,45,Business,Business,3223,3,2,3,4,1,5,5,5,4,1,5,5,4,24,99
+Male,Loyal Customer,54,Personal,Eco,1440,4,5,5,4,4,5,4,3,4,5,2,4,1,74,80
+Male,Loyal Customer,25,Business,Business,2008,4,2,4,3,5,3,5,3,4,1,3,1,4,92,6
+Female,Loyal Customer,18,Personal,Eco Plus,3061,5,2,2,2,4,3,2,1,2,3,2,1,5,14,26
+Female,disloyal Customer,43,Business,Eco,2708,4,2,4,3,2,4,1,1,5,3,1,1,4,75,65
+Female,disloyal Customer,63,Personal,Eco,3164,4,2,5,2,5,3,2,4,1,5,4,4,1,53,53
+Female,disloyal Customer,36,Personal,Eco,623,2,4,2,4,4,1,4,1,3,2,1,4,4,17,30
+Male,disloyal Customer,39,Business,Business,3044,1,5,2,1,4,4,4,1,2,3,1,2,1,78,91
+Female,disloyal Customer,27,Business,Business,2689,3,3,2,1,3,5,2,4,1,3,3,2,5,49,54
+Female,Loyal Customer,67,Business,Business,100,3,5,2,5,2,2,1,1,1,3,2,2,4,67,38
+Female,Loyal Customer,58,Business,Business,3702,4,5,4,3,1,2,5,4,5,1,4,1,1,96,34
+Male,Loyal Customer,53,Business,Eco,496,1,4,3,2,4,4,2,1,2,4,3,4,2,42,92
+Male,Loyal Customer,72,Personal,Business,2861,5,3,4,5,5,2,3,2,3,3,2,3,3,66,43
+Male,disloyal Customer,65,Personal,Eco Plus,2839,5,5,5,4,2,2,1,3,1,5,1,1,2,28,76
+Female,disloyal Customer,42,Personal,Eco,2823,2,5,1,5,2,2,2,2,1,5,2,2,3,97,63
+Female,disloyal Customer,78,Business,Eco,2596,2,1,1,2,4,5,5,5,3,2,1,2,2,52,64
+Male,Loyal Customer,20,Personal,Eco,593,4,3,5,4,1,2,2,5,1,1,3,3,4,29,69
+Female,Loyal Customer,33,Personal,Business,2597,2,3,5,4,4,3,4,4,5,1,1,1,2,64,84
+Male,Loyal Customer,18,Business,Eco,3252,5,5,5,1,2,1,2,2,5,5,4,2,3,36,84
+Female,disloyal Customer,66,Business,Business,2033,3,2,2,3,5,5,3,4,4,5,5,1,2,37,94
+Male,disloyal Customer,64,Personal,Eco Plus,2725,2,1,4,2,2,4,3,2,1,1,3,4,4,40,41
+Female,Loyal Customer,29,Business,Eco,3745,2,3,5,5,4,5,4,2,3,5,4,2,5,61,8
+Female,disloyal Customer,63,Business,Eco,3604,5,4,1,3,5,5,3,3,4,2,2,5,3,48,52
+Male,Loyal Customer,45,Personal,Eco,1074,3,3,2,3,3,4,1,5,1,1,4,4,1,94,88
+Female,disloyal Customer,45,Business,Eco Plus,2923,1,2,4,3,5,3,1,4,4,4,4,3,5,93,41
+Male,Loyal Customer,28,Business,Eco Plus,1389,4,4,1,1,2,4,1,3,2,3,2,5,2,10,55
+Female,Loyal Customer,62,Business,Eco Plus,2690,1,4,3,5,4,4,2,4,3,2,4,1,1,94,77
+Female,Loyal Customer,79,Business,Eco,2953,4,2,5,2,2,1,5,4,4,3,2,3,3,35,99
+Female,Loyal Customer,28,Business,Eco Plus,1902,1,1,4,5,4,2,4,2,5,5,3,3,4,43,73
+Male,Loyal Customer,24,Personal,Eco Plus,3488,4,1,4,2,4,5,2,4,1,5,3,5,2,82,89
+Female,disloyal Customer,60,Business,Eco,2334,3,1,3,2,3,4,4,3,5,1,3,2,1,66,1
+Male,disloyal Customer,68,Business,Business,2938,3,5,1,1,2,2,5,5,4,1,3,3,1,9,2
+Male,disloyal Customer,76,Business,Eco,3131,2,5,2,5,4,3,3,2,4,1,5,2,4,20,86
+Female,disloyal Customer,20,Personal,Eco,3968,4,1,2,3,3,1,1,1,3,4,4,1,4,86,57
+Male,Loyal Customer,45,Business,Eco,565,4,2,3,4,4,3,4,3,4,3,1,5,5,66,80
+Male,disloyal Customer,72,Business,Business,596,5,5,4,3,3,1,1,3,5,4,1,1,1,52,24
+Male,Loyal Customer,55,Business,Eco Plus,1068,2,5,4,3,5,4,5,1,5,3,5,4,3,95,54
+Male,disloyal Customer,48,Personal,Eco,1300,3,2,4,3,4,4,2,3,2,2,1,2,5,57,32
+Male,disloyal Customer,78,Business,Business,2853,5,3,1,4,3,5,2,3,5,2,1,1,1,41,46
+Male,disloyal Customer,31,Personal,Business,572,2,2,1,1,5,1,5,3,4,5,2,4,2,19,58
+Female,Loyal Customer,41,Business,Eco,2210,3,2,5,3,4,5,5,5,4,2,4,3,4,12,60
+Female,disloyal Customer,71,Business,Eco Plus,505,2,1,5,1,2,4,1,2,1,5,4,2,5,61,92
+Male,disloyal Customer,55,Business,Eco,1598,1,5,4,2,5,1,5,5,1,4,4,5,5,2,69
+Male,Loyal Customer,43,Business,Eco,3794,1,1,1,1,1,4,4,3,2,1,4,4,4,44,77
+Female,Loyal Customer,44,Business,Eco Plus,2369,1,2,2,3,5,5,4,3,5,4,1,3,5,38,58
+Male,Loyal Customer,56,Business,Business,719,1,2,3,2,4,4,4,4,5,3,3,3,5,75,77
+Male,disloyal Customer,39,Business,Eco,2420,2,2,1,1,3,2,2,4,1,4,2,5,1,82,24
+Male,disloyal Customer,67,Personal,Business,2347,4,3,2,2,2,1,5,5,1,5,2,2,5,17,48
+Male,disloyal Customer,67,Personal,Eco,3524,1,4,1,1,2,5,3,3,4,1,1,1,2,13,93
+Female,disloyal Customer,49,Business,Eco Plus,2960,2,2,3,3,2,3,3,2,3,5,5,4,3,45,26
+Male,Loyal Customer,60,Business,Eco Plus,2822,4,3,3,5,3,2,1,1,3,4,1,4,4,20,44
+Male,disloyal Customer,21,Personal,Eco,3278,1,4,4,3,5,5,1,5,1,4,5,3,2,49,43
+Male,Loyal Customer,68,Personal,Eco,1247,4,2,5,1,3,5,1,4,4,2,2,5,4,86,16
+Female,Loyal Customer,52,Personal,Eco Plus,492,3,2,5,5,5,4,3,5,5,4,4,3,5,6,97
+Female,disloyal Customer,72,Business,Business,1284,5,2,3,3,3,2,1,3,1,3,3,2,3,22,72
+Female,disloyal Customer,51,Personal,Eco,2934,4,2,5,4,1,4,2,4,2,5,2,1,5,66,65
+Male,Loyal Customer,73,Business,Eco,3966,3,4,2,5,5,1,4,2,3,4,1,2,5,67,65
+Female,disloyal Customer,18,Business,Eco,2678,5,4,3,2,4,1,5,5,4,4,3,3,5,93,61
+Female,Loyal Customer,21,Business,Eco,3894,1,2,5,3,5,4,5,4,3,3,5,3,4,10,55
+Female,Loyal Customer,62,Business,Business,1386,1,2,1,4,3,2,4,4,5,3,1,3,3,39,74
+Male,disloyal Customer,40,Business,Eco Plus,3850,3,3,3,2,5,3,1,3,5,2,2,3,1,42,59
+Male,disloyal Customer,49,Personal,Business,2778,4,5,2,3,1,3,3,3,1,4,3,1,2,43,99
+Female,disloyal Customer,38,Business,Eco,1340,5,4,5,1,2,5,3,4,3,2,1,5,1,1,55
+Female,Loyal Customer,47,Personal,Business,1126,4,3,3,2,2,5,4,5,4,1,3,5,2,43,74
+Male,Loyal Customer,34,Business,Business,424,1,3,2,1,4,2,2,1,2,5,2,5,3,88,39
+Female,Loyal Customer,30,Business,Business,2207,4,4,3,4,2,2,3,3,5,2,3,4,1,46,15
+Male,Loyal Customer,40,Business,Business,541,4,2,3,1,3,3,5,1,4,2,4,3,2,64,7
+Female,disloyal Customer,63,Business,Eco Plus,2154,4,3,2,2,2,5,3,4,2,3,5,3,2,0,90
+Female,disloyal Customer,78,Business,Eco Plus,1194,4,4,2,5,4,4,1,1,1,5,2,4,4,72,84
+Male,disloyal Customer,47,Personal,Eco Plus,2975,3,1,4,5,1,2,5,3,1,1,3,4,4,51,67
+Male,disloyal Customer,63,Business,Eco,245,1,1,4,2,3,1,5,5,3,1,4,1,2,61,29
+Female,Loyal Customer,61,Personal,Eco,2582,2,2,1,3,2,1,4,1,1,3,4,2,3,37,6
+Male,disloyal Customer,52,Personal,Eco Plus,2445,1,2,4,4,1,3,2,3,2,5,4,2,2,30,38
+Male,disloyal Customer,59,Business,Business,2252,3,1,1,5,4,2,3,4,5,3,5,3,4,28,2
+Male,disloyal Customer,26,Business,Eco,696,2,5,1,1,4,5,3,3,3,1,3,4,3,14,99
+Female,disloyal Customer,64,Business,Eco Plus,1201,5,5,1,5,4,2,5,5,1,2,4,5,4,88,18
+Male,Loyal Customer,34,Personal,Eco,1944,3,5,4,5,2,5,4,1,2,2,1,5,4,3,23
+Male,disloyal Customer,45,Business,Eco Plus,1327,4,2,2,4,1,2,1,1,2,5,4,2,5,45,75
+Female,Loyal Customer,23,Personal,Business,224,5,3,2,1,2,4,3,4,2,5,1,2,1,49,60
+Female,disloyal Customer,70,Personal,Business,3325,2,2,2,2,3,3,5,4,1,5,5,1,2,68,54
+Female,disloyal Customer,49,Business,Business,3069,2,1,1,5,4,3,3,1,3,3,3,3,4,65,2
+Male,Loyal Customer,71,Business,Business,3472,3,2,1,1,3,5,1,2,4,5,1,1,3,68,51
+Female,Loyal Customer,44,Personal,Eco Plus,2103,4,3,3,3,5,2,2,5,2,5,4,2,2,32,29
+Female,Loyal Customer,19,Business,Eco,1923,4,4,3,2,2,5,3,4,3,3,3,4,2,73,24
+Female,disloyal Customer,50,Personal,Eco,2791,4,2,2,4,4,3,2,5,2,5,5,3,2,0,40
+Male,disloyal Customer,30,Personal,Eco,2838,1,4,3,1,4,1,1,3,1,3,2,2,2,13,45
+Female,Loyal Customer,44,Business,Eco,292,4,2,1,4,3,4,2,2,1,5,3,2,2,86,57
+Male,Loyal Customer,34,Business,Eco Plus,827,4,5,5,2,2,5,3,3,1,1,2,4,4,33,42
+Female,Loyal Customer,21,Business,Business,540,1,5,3,2,4,1,4,2,1,3,3,4,5,34,22
+Male,disloyal Customer,41,Personal,Eco,1658,4,3,5,3,3,2,5,5,3,5,5,5,3,44,91
+Male,Loyal Customer,29,Business,Business,2691,2,3,3,1,4,4,1,1,5,4,4,3,4,80,69
+Male,Loyal Customer,66,Business,Eco Plus,542,4,4,4,1,5,4,5,4,2,3,3,3,3,35,22
+Female,disloyal Customer,37,Personal,Business,3498,4,4,3,4,1,5,4,5,1,1,1,3,1,94,21
+Male,disloyal Customer,57,Business,Eco Plus,3101,3,3,3,4,5,3,1,5,1,5,3,2,4,32,78
+Male,disloyal Customer,29,Business,Eco Plus,3083,4,5,3,5,4,4,4,1,1,1,2,2,3,29,95
+Male,Loyal Customer,55,Personal,Eco Plus,394,2,1,2,5,5,5,2,2,1,1,1,1,1,46,60
+Male,Loyal Customer,48,Business,Eco,2397,1,1,1,4,5,2,4,3,4,4,2,3,2,13,49
+Female,Loyal Customer,38,Personal,Eco,1355,1,5,1,1,1,4,4,1,5,4,5,2,3,20,68
+Female,disloyal Customer,70,Personal,Business,3843,5,4,1,4,3,1,4,1,2,4,1,3,2,49,69
+Male,Loyal Customer,27,Business,Eco,416,4,5,1,4,4,2,2,4,4,3,2,1,4,90,82
+Female,disloyal Customer,20,Personal,Eco Plus,2484,2,2,1,5,1,3,4,3,3,3,2,4,3,48,65
+Female,disloyal Customer,18,Business,Eco,2433,4,2,1,5,4,3,4,1,3,2,1,4,3,36,7
+Female,disloyal Customer,54,Personal,Business,3606,5,3,3,3,2,1,3,1,1,3,3,3,5,90,90
+Female,Loyal Customer,21,Business,Eco Plus,334,2,3,2,5,2,2,4,4,4,4,4,1,4,96,48
+Female,Loyal Customer,20,Business,Eco,2382,5,4,2,2,1,4,5,1,5,2,4,1,3,38,77
+Male,disloyal Customer,69,Personal,Eco,1696,3,3,4,3,5,5,1,4,4,1,3,4,4,78,1
+Male,disloyal Customer,54,Personal,Business,2525,3,1,2,5,3,5,2,2,5,1,5,2,1,17,80
+Male,Loyal Customer,68,Personal,Eco Plus,1564,2,5,5,1,4,4,2,2,2,5,5,1,4,86,15
+Female,disloyal Customer,55,Personal,Business,617,4,4,5,1,1,3,4,1,1,4,5,3,1,5,29
+Female,disloyal Customer,77,Business,Eco,3852,1,1,2,2,3,2,3,3,2,3,1,4,3,30,69
+Male,Loyal Customer,63,Business,Eco,1678,4,3,3,1,2,2,3,2,1,1,5,3,5,95,45
+Female,Loyal Customer,68,Business,Eco Plus,2606,2,5,4,3,2,2,2,3,1,4,3,2,3,59,63
+Male,disloyal Customer,39,Business,Business,3744,1,5,2,5,2,2,3,4,3,3,2,2,1,82,20
+Female,Loyal Customer,66,Business,Business,1766,5,3,2,4,4,2,3,1,3,4,2,5,3,41,26
+Female,disloyal Customer,75,Personal,Business,1994,4,3,1,4,4,5,3,5,2,5,5,4,2,42,42
+Female,Loyal Customer,25,Business,Eco Plus,3256,2,3,3,4,2,1,3,1,4,1,5,2,5,27,82
+Female,Loyal Customer,74,Personal,Eco Plus,2610,5,1,5,1,3,4,1,4,5,1,3,5,4,10,23
+Female,Loyal Customer,69,Business,Eco Plus,3919,3,5,2,3,3,5,1,4,2,5,1,2,3,17,96
+Male,disloyal Customer,25,Personal,Eco Plus,1689,1,5,1,3,3,5,3,2,3,5,2,2,4,94,90
+Male,Loyal Customer,35,Business,Eco,2157,4,1,3,5,4,1,4,5,3,4,1,2,2,92,44
+Female,Loyal Customer,65,Business,Business,3977,1,2,3,1,2,3,4,4,1,5,4,1,5,7,27
+Male,Loyal Customer,33,Personal,Eco,461,5,4,5,2,5,2,4,2,1,4,3,1,2,81,84
+Female,disloyal Customer,72,Business,Business,1360,4,1,1,4,4,2,1,2,3,3,3,5,3,17,6
+Female,Loyal Customer,44,Business,Eco Plus,3287,4,4,2,5,5,2,4,1,2,5,4,1,2,34,21
+Female,Loyal Customer,41,Personal,Eco,731,4,3,1,2,5,4,2,2,3,1,3,3,4,63,74
+Male,Loyal Customer,48,Business,Business,3180,4,4,1,4,5,4,5,2,3,1,5,5,1,30,48
+Male,disloyal Customer,53,Personal,Eco,1095,1,1,2,2,4,2,3,3,1,2,1,2,5,15,31
+Female,disloyal Customer,75,Business,Eco,287,5,1,4,3,4,5,1,3,5,5,5,2,5,68,43
+Female,disloyal Customer,76,Business,Eco,1425,3,3,3,4,2,4,1,3,4,4,1,1,4,65,11
+Male,disloyal Customer,55,Business,Eco,444,1,1,5,2,2,4,3,4,5,3,2,1,5,57,1
+Female,Loyal Customer,36,Personal,Eco,2821,1,5,4,3,1,5,3,1,2,5,3,4,1,55,80
+Female,Loyal Customer,41,Personal,Eco Plus,3843,1,3,2,1,1,1,5,3,4,5,2,1,5,11,42
+Male,Loyal Customer,61,Personal,Eco,718,1,1,1,3,4,5,5,5,4,1,3,4,4,12,91
+Male,disloyal Customer,51,Business,Eco,242,2,4,4,1,4,1,5,4,3,3,1,1,3,33,29
+Female,Loyal Customer,38,Business,Business,354,5,1,3,4,2,4,3,3,3,3,4,4,4,2,76
+Male,disloyal Customer,64,Personal,Eco,2065,3,5,2,3,3,1,2,5,1,2,1,5,4,45,72
+Male,disloyal Customer,62,Business,Eco Plus,894,1,4,5,5,1,2,4,5,3,1,5,1,4,24,97
+Female,Loyal Customer,51,Personal,Eco,3710,3,2,5,4,4,2,3,1,3,4,4,3,1,58,54
+Female,Loyal Customer,61,Business,Eco Plus,1586,1,2,5,4,2,3,2,5,3,3,4,4,5,23,17
+Male,disloyal Customer,45,Business,Eco Plus,1118,4,2,3,3,4,1,3,4,2,5,4,1,1,5,21
+Female,Loyal Customer,30,Personal,Eco,736,5,4,1,5,1,5,4,4,5,2,3,3,2,42,77
+Male,disloyal Customer,47,Personal,Eco,3115,3,4,3,1,3,5,2,5,2,2,5,5,3,17,63
+Male,disloyal Customer,42,Personal,Business,753,5,4,2,1,1,5,5,5,2,5,4,1,4,88,93
+Female,disloyal Customer,48,Personal,Business,2143,1,5,1,1,5,5,4,4,4,3,5,2,5,35,68
+Female,disloyal Customer,51,Business,Business,771,3,1,4,5,4,2,4,2,5,1,3,4,1,54,66
+Female,disloyal Customer,70,Business,Eco Plus,3335,3,3,2,5,5,5,3,1,2,4,5,4,4,63,59
+Female,disloyal Customer,57,Personal,Business,372,1,5,3,4,5,3,2,4,3,3,1,1,3,91,80
+Male,disloyal Customer,49,Business,Eco Plus,3803,1,4,2,3,1,1,4,2,4,5,4,2,5,80,32
+Male,Loyal Customer,28,Personal,Eco Plus,3882,5,2,1,1,2,5,2,5,1,2,2,3,1,81,83
+Female,Loyal Customer,37,Business,Eco Plus,3654,5,5,1,1,1,1,2,5,5,3,5,4,1,54,98
+Female,disloyal Customer,46,Personal,Eco Plus,1774,4,5,5,4,3,4,3,1,4,2,4,2,3,62,43
+Female,disloyal Customer,56,Personal,Eco,1621,2,2,4,4,3,3,2,5,4,4,5,4,3,76,95
+Male,disloyal Customer,34,Business,Eco,1892,4,3,3,3,2,5,3,3,2,5,4,4,3,21,30
+Male,disloyal Customer,27,Personal,Eco,1662,3,2,4,4,1,3,4,2,1,1,1,4,4,29,7
+Female,disloyal Customer,71,Business,Eco Plus,2197,3,1,2,5,5,5,3,1,2,4,4,5,5,97,51
+Female,disloyal Customer,40,Personal,Eco Plus,1048,3,3,4,3,1,1,4,5,4,2,1,4,2,36,55
+Male,disloyal Customer,55,Personal,Eco,2645,5,5,2,4,4,4,5,2,3,1,4,2,1,42,80
+Male,Loyal Customer,36,Business,Business,186,5,4,3,5,4,5,2,2,2,1,5,1,1,29,96
+Male,disloyal Customer,77,Personal,Business,2802,1,5,4,1,5,2,3,5,4,5,3,5,2,97,15
+Male,disloyal Customer,74,Business,Eco Plus,2014,2,5,2,1,4,5,3,3,3,4,3,4,2,41,17
+Male,disloyal Customer,26,Personal,Eco Plus,1768,3,5,1,1,2,2,4,1,2,2,5,2,4,4,77
+Male,disloyal Customer,48,Business,Business,2781,3,4,5,1,3,1,2,1,1,1,4,4,5,77,61
+Male,disloyal Customer,23,Personal,Business,918,5,4,2,5,3,2,3,5,5,4,5,4,5,89,8
+Male,Loyal Customer,31,Personal,Eco,2610,1,5,4,3,1,1,5,2,4,2,4,5,2,6,93
+Male,Loyal Customer,59,Business,Eco,2817,1,3,2,3,5,2,2,3,3,5,2,5,3,70,87
+Female,disloyal Customer,49,Business,Eco,1705,1,4,1,4,3,5,5,1,2,1,1,1,1,62,64
+Female,Loyal Customer,41,Personal,Eco,2580,4,4,1,5,2,1,4,1,1,1,3,3,5,13,19
+Female,Loyal Customer,45,Business,Business,3048,1,5,2,4,3,5,2,1,5,4,2,3,4,17,42
+Male,disloyal Customer,32,Personal,Eco,2815,4,4,4,5,3,2,2,1,4,1,5,4,1,64,86
+Female,disloyal Customer,29,Personal,Business,2429,5,5,1,4,5,1,5,2,5,2,1,5,5,57,45
+Female,disloyal Customer,48,Business,Eco Plus,2615,4,3,4,1,3,4,5,2,2,1,5,1,5,62,69
+Female,Loyal Customer,24,Business,Eco Plus,759,2,1,5,2,4,3,4,2,1,1,2,3,4,54,91
+Male,Loyal Customer,47,Personal,Business,3149,1,3,3,5,5,5,5,2,2,2,3,5,3,9,9
+Female,Loyal Customer,75,Personal,Eco Plus,217,2,3,3,2,4,3,5,2,1,1,5,2,3,34,56
+Female,disloyal Customer,32,Personal,Business,2362,4,2,5,5,2,2,3,5,2,5,3,5,4,96,30
+Female,Loyal Customer,25,Business,Eco,3552,1,2,3,2,3,2,1,4,5,1,2,4,3,10,49
+Male,disloyal Customer,23,Personal,Eco Plus,2465,1,2,4,4,3,1,2,4,4,2,5,1,3,92,28
+Female,Loyal Customer,77,Business,Eco Plus,115,2,4,4,5,5,2,4,2,3,1,1,1,2,34,6
+Female,disloyal Customer,62,Personal,Eco Plus,632,4,4,2,1,2,1,5,2,2,5,1,1,1,39,45
+Female,Loyal Customer,53,Business,Eco,1277,3,1,3,1,4,2,1,1,5,3,2,3,1,4,65
+Male,Loyal Customer,18,Personal,Business,123,3,4,3,2,3,5,2,5,3,1,3,2,4,6,88
+Male,disloyal Customer,31,Business,Eco,709,2,2,3,1,1,5,3,3,1,1,2,4,4,3,73
+Male,Loyal Customer,53,Business,Eco Plus,3244,2,5,3,4,1,4,4,4,5,4,1,1,4,47,44
+Male,disloyal Customer,45,Personal,Eco Plus,2480,1,2,3,4,1,4,2,4,1,3,4,1,4,2,14
+Female,Loyal Customer,35,Business,Business,1738,1,2,3,1,2,3,3,4,4,4,3,2,1,58,38
+Male,disloyal Customer,52,Personal,Eco,1162,2,3,5,4,3,3,1,3,4,5,4,3,1,21,47
+Male,Loyal Customer,34,Business,Business,2563,5,2,5,4,1,2,1,5,5,2,5,1,2,17,0
+Female,Loyal Customer,75,Personal,Business,2744,2,5,2,4,5,1,1,1,3,4,3,2,2,67,10
+Male,Loyal Customer,57,Business,Eco,780,3,4,3,4,2,1,2,5,5,4,5,4,1,3,59
+Male,disloyal Customer,22,Personal,Eco,3171,5,4,5,1,5,5,1,2,1,1,1,3,3,32,44
+Male,disloyal Customer,28,Business,Eco,2825,2,1,5,2,5,5,5,2,4,4,1,5,2,80,56
+Female,Loyal Customer,57,Personal,Eco Plus,3238,2,4,3,2,4,4,4,4,3,4,1,3,4,59,39
+Male,Loyal Customer,45,Business,Eco,2482,2,2,1,5,1,5,1,3,3,5,4,4,4,57,3
+Female,Loyal Customer,76,Personal,Eco Plus,2500,2,4,1,2,2,2,1,3,3,4,1,1,3,46,93
+Female,Loyal Customer,45,Business,Eco Plus,390,3,4,1,1,2,2,4,2,5,1,2,2,2,62,62
+Female,Loyal Customer,45,Personal,Eco,2367,5,1,1,4,2,1,1,5,4,3,2,3,4,1,83
+Female,Loyal Customer,40,Business,Eco,2659,3,5,2,5,4,5,5,1,5,4,2,4,4,63,97
+Male,Loyal Customer,60,Business,Business,3091,4,4,2,2,2,4,5,1,5,3,3,3,2,79,57
+Male,Loyal Customer,27,Personal,Business,1502,3,1,3,4,1,1,1,3,2,3,3,1,2,8,46
+Male,disloyal Customer,26,Personal,Eco Plus,1420,5,4,1,1,4,5,5,5,3,1,1,1,2,47,76
+Male,disloyal Customer,59,Personal,Business,2073,1,3,3,1,2,1,2,2,4,3,2,2,1,87,85
+Male,Loyal Customer,66,Business,Business,3232,4,5,5,5,4,3,1,4,2,4,2,3,4,61,75
+Female,Loyal Customer,22,Business,Eco,352,4,4,2,1,2,2,1,3,3,4,5,4,1,15,27
+Male,Loyal Customer,65,Business,Eco Plus,3366,1,1,4,5,5,2,3,1,5,3,2,5,5,75,32
+Male,Loyal Customer,43,Personal,Business,875,1,2,3,3,3,1,2,1,5,4,3,5,5,65,27
+Male,disloyal Customer,34,Business,Business,2338,4,2,5,4,5,2,4,2,5,3,5,2,1,75,2
+Male,disloyal Customer,74,Personal,Eco Plus,1872,5,3,4,5,3,2,3,3,3,5,2,3,1,56,81
+Female,disloyal Customer,30,Business,Eco Plus,1377,3,5,1,4,4,3,1,4,1,4,4,5,2,68,91
+Male,disloyal Customer,32,Personal,Eco Plus,682,1,4,4,5,1,1,2,1,1,3,2,3,4,2,72
+Male,Loyal Customer,58,Business,Business,1631,3,4,1,4,4,3,5,3,1,2,3,5,4,70,69
+Male,disloyal Customer,20,Personal,Eco Plus,470,1,1,3,5,3,1,1,2,5,2,3,2,4,17,37
+Male,disloyal Customer,69,Business,Eco,1303,5,4,5,2,3,4,4,4,2,4,4,4,5,41,16
+Female,disloyal Customer,56,Business,Eco,1706,4,2,4,1,5,5,5,1,1,1,3,2,3,62,76
+Female,Loyal Customer,37,Personal,Eco,225,4,5,1,4,2,1,4,1,4,4,3,3,1,80,68
+Male,disloyal Customer,61,Personal,Eco Plus,1067,2,3,3,2,5,3,4,2,3,5,4,4,2,90,34
+Female,Loyal Customer,25,Business,Eco Plus,1228,3,2,5,5,4,3,5,4,1,5,4,4,1,35,17
+Male,Loyal Customer,23,Personal,Eco,3733,3,3,3,1,2,3,3,1,2,1,5,3,1,10,28
+Female,Loyal Customer,41,Business,Business,749,2,4,3,1,2,5,1,5,5,5,4,1,1,3,6
+Male,disloyal Customer,26,Business,Eco Plus,2864,5,5,4,1,5,2,5,1,4,1,5,5,2,31,59
+Female,Loyal Customer,28,Personal,Eco Plus,1912,5,3,1,1,5,5,3,4,2,5,3,3,1,95,6
+Female,disloyal Customer,20,Personal,Business,1084,4,3,4,1,4,1,2,5,5,4,4,4,1,65,60
+Male,disloyal Customer,78,Business,Eco Plus,2842,3,5,4,2,4,3,5,4,2,1,2,5,3,97,17
+Female,Loyal Customer,54,Personal,Business,281,5,2,5,3,2,2,2,5,1,4,5,1,2,32,50
+Female,Loyal Customer,35,Business,Eco,343,3,1,4,4,5,3,2,4,2,5,1,5,5,4,1
+Male,disloyal Customer,20,Business,Eco Plus,3416,5,3,1,1,4,5,2,4,3,4,4,2,1,13,55
+Male,disloyal Customer,32,Business,Eco Plus,789,3,3,4,4,3,4,4,4,2,4,2,4,1,62,89
+Male,Loyal Customer,70,Personal,Eco,1736,3,1,5,2,2,3,2,1,4,5,4,1,1,22,66
+Female,Loyal Customer,44,Personal,Eco Plus,1777,3,2,3,1,5,3,5,4,1,4,3,4,1,94,87
+Female,Loyal Customer,38,Personal,Eco,1699,3,2,5,3,4,2,5,2,5,3,2,4,2,52,89
+Female,Loyal Customer,49,Business,Eco Plus,1441,2,3,3,4,1,3,4,3,5,1,4,4,3,83,0
+Female,Loyal Customer,53,Personal,Business,795,3,2,2,2,1,1,5,3,1,2,1,4,1,1,67
+Female,Loyal Customer,33,Personal,Eco,1347,5,2,2,1,2,3,1,1,2,5,3,2,4,24,73
+Male,disloyal Customer,29,Business,Business,489,3,2,3,2,4,5,2,4,2,2,2,1,1,86,89
+Female,disloyal Customer,52,Personal,Eco,703,1,5,3,1,1,2,3,4,5,3,1,5,2,5,58
+Female,disloyal Customer,45,Business,Eco Plus,2990,4,5,3,5,4,2,5,3,4,5,4,3,3,17,69
+Male,disloyal Customer,38,Personal,Business,2629,1,5,4,4,2,5,1,4,3,2,2,1,5,34,43
+Male,Loyal Customer,50,Business,Business,856,1,4,4,5,4,5,1,1,2,3,3,5,1,65,8
+Female,Loyal Customer,62,Personal,Eco Plus,486,5,2,3,1,2,5,3,2,3,5,4,5,4,79,49
+Female,Loyal Customer,38,Business,Business,1507,5,1,2,5,4,4,3,1,4,2,4,5,1,37,99
+Male,disloyal Customer,67,Business,Eco,1495,2,2,1,2,5,1,3,5,1,3,5,5,1,36,29
+Female,Loyal Customer,49,Personal,Business,1144,3,1,1,1,2,5,3,3,5,2,3,4,5,23,71
+Male,Loyal Customer,76,Personal,Eco,1512,1,2,2,3,2,4,3,5,1,2,1,1,4,75,7
+Female,disloyal Customer,54,Personal,Eco Plus,3017,1,2,3,5,1,5,4,2,2,5,5,5,4,63,48
+Male,Loyal Customer,67,Personal,Eco Plus,909,1,1,5,5,4,4,5,2,5,5,5,1,1,45,40
+Female,Loyal Customer,70,Personal,Eco Plus,1878,2,3,3,5,3,5,1,4,1,3,4,1,4,78,75
+Male,disloyal Customer,46,Business,Eco Plus,816,3,5,3,3,3,1,2,4,3,1,1,2,1,87,70
+Female,Loyal Customer,79,Business,Business,3424,5,2,5,2,1,4,4,4,2,4,2,5,1,20,30
+Female,Loyal Customer,54,Personal,Eco,3903,4,5,4,3,2,1,3,5,1,4,5,3,2,19,74
+Male,Loyal Customer,38,Personal,Eco Plus,2553,3,4,4,1,1,2,3,2,5,4,1,1,2,14,45
+Female,Loyal Customer,42,Business,Eco Plus,3411,5,1,1,3,3,4,3,1,5,5,4,3,3,33,79
+Female,disloyal Customer,37,Personal,Business,1302,3,4,5,1,5,2,4,1,4,3,3,5,5,7,74
+Male,Loyal Customer,36,Personal,Eco Plus,2635,3,4,5,5,4,3,3,2,1,4,2,1,2,7,39
+Male,disloyal Customer,39,Business,Eco Plus,3304,2,4,4,5,3,2,1,2,2,5,3,4,3,44,22
+Female,Loyal Customer,64,Personal,Business,1708,4,5,5,4,4,4,2,3,4,3,4,4,3,85,94
+Male,Loyal Customer,65,Business,Eco,1055,4,5,5,3,3,2,2,1,5,2,2,4,3,49,5
+Male,disloyal Customer,21,Personal,Eco Plus,1632,2,3,1,4,2,1,2,3,1,3,5,5,1,60,65
+Male,Loyal Customer,77,Business,Eco,966,1,1,3,2,2,3,1,2,5,3,3,3,4,5,8
+Male,Loyal Customer,52,Personal,Eco,1354,5,1,2,1,3,2,1,2,5,1,4,5,5,50,63
+Male,disloyal Customer,36,Personal,Eco Plus,2217,5,2,4,1,2,3,3,3,4,3,5,5,2,66,88
+Female,Loyal Customer,60,Personal,Eco Plus,328,2,2,1,2,1,3,1,5,2,5,1,1,4,97,65
+Male,disloyal Customer,36,Business,Eco,2059,1,1,5,5,2,3,4,5,2,5,5,3,4,66,15
+Female,disloyal Customer,42,Personal,Business,3798,3,1,5,3,1,4,3,3,2,2,4,5,1,79,49
+Male,Loyal Customer,49,Business,Eco,3232,5,1,3,3,3,3,5,4,4,5,4,1,1,6,73
+Female,disloyal Customer,35,Personal,Eco Plus,3579,2,4,4,3,2,4,1,3,3,5,2,1,2,36,37
+Female,disloyal Customer,25,Business,Eco Plus,3469,5,3,4,5,3,3,1,2,3,4,4,5,4,93,90
+Male,Loyal Customer,35,Personal,Eco Plus,2495,4,1,5,5,3,5,2,3,5,5,1,3,4,55,90
+Female,Loyal Customer,24,Personal,Eco,3317,4,3,4,1,3,2,3,4,2,2,1,3,3,72,50
+Female,Loyal Customer,65,Business,Eco,3069,3,1,1,3,5,1,3,2,1,2,1,2,3,82,91
+Male,Loyal Customer,44,Personal,Business,2564,2,5,2,5,3,4,5,3,4,1,4,4,3,74,57
+Female,Loyal Customer,46,Personal,Eco,1213,3,3,4,5,2,4,3,5,2,5,1,3,5,85,96
+Female,disloyal Customer,58,Business,Eco Plus,1126,2,5,1,3,2,4,2,3,5,1,1,4,4,85,51
+Female,disloyal Customer,56,Business,Eco Plus,1538,2,4,5,5,2,1,4,3,2,3,3,5,3,5,28
+Female,disloyal Customer,37,Business,Eco Plus,3143,2,3,4,3,2,4,1,1,5,3,1,1,5,80,40
+Male,disloyal Customer,74,Business,Eco Plus,2838,1,2,3,4,5,4,4,5,5,5,3,5,1,5,52
+Female,Loyal Customer,70,Personal,Eco,510,2,4,3,3,1,3,3,3,3,1,4,4,4,44,40
+Male,Loyal Customer,77,Business,Business,3207,4,1,3,2,2,5,5,5,4,2,5,5,5,80,69
+Male,Loyal Customer,73,Personal,Eco Plus,694,2,1,5,3,1,5,2,4,1,1,2,4,2,61,33
+Female,disloyal Customer,58,Personal,Eco Plus,1415,4,4,5,3,3,5,4,4,2,1,4,1,4,3,21
+Male,disloyal Customer,58,Business,Eco,3276,1,2,2,1,2,3,3,2,4,1,2,5,1,57,58
+Female,Loyal Customer,60,Personal,Business,1015,2,5,1,2,3,5,5,3,3,1,4,3,5,6,28
+Female,disloyal Customer,63,Business,Eco,1348,2,2,2,2,4,3,4,3,4,3,3,2,2,9,50
+Male,Loyal Customer,34,Business,Eco Plus,1072,1,4,3,2,4,1,3,1,3,2,3,3,5,86,86
+Female,Loyal Customer,64,Business,Eco Plus,3547,5,3,5,4,1,4,3,3,4,3,2,1,5,93,97
+Male,disloyal Customer,42,Personal,Eco,2038,4,3,5,4,2,5,3,1,2,1,2,5,3,47,70
+Male,disloyal Customer,52,Personal,Business,2912,5,3,1,2,3,5,2,3,5,3,4,1,1,43,71
+Female,disloyal Customer,41,Business,Eco,1687,5,5,2,1,4,1,5,5,4,4,4,2,1,45,86
+Male,Loyal Customer,47,Personal,Eco,2413,4,5,5,4,5,3,4,5,1,4,2,4,1,95,0
+Female,Loyal Customer,76,Personal,Eco Plus,3314,1,5,3,5,1,4,3,5,1,1,4,3,1,71,3
+Female,Loyal Customer,62,Business,Eco,938,2,2,1,2,5,4,5,2,5,3,2,2,2,18,15
+Male,disloyal Customer,78,Personal,Eco Plus,268,2,1,3,3,4,3,1,3,4,1,4,1,4,24,6
+Male,Loyal Customer,33,Business,Business,794,1,3,3,3,3,5,3,4,3,4,4,3,1,85,93
+Female,Loyal Customer,18,Business,Eco Plus,253,2,4,1,1,4,3,5,1,1,1,3,2,2,6,47
+Female,disloyal Customer,67,Business,Eco Plus,2857,2,1,3,4,1,3,1,5,3,1,5,2,4,46,14
+Female,disloyal Customer,37,Personal,Business,639,5,4,1,2,4,1,3,1,4,1,5,4,4,60,54
+Male,disloyal Customer,36,Personal,Business,2371,4,3,3,2,5,5,1,4,5,1,3,2,3,11,49
+Female,disloyal Customer,75,Personal,Business,750,4,1,2,4,1,2,4,3,5,2,4,3,3,23,8
+Male,Loyal Customer,27,Personal,Eco Plus,3371,2,3,4,4,5,2,2,2,3,5,3,2,3,43,73
+Male,disloyal Customer,18,Business,Eco,220,2,3,2,4,4,5,5,1,4,2,1,5,2,30,5
+Male,Loyal Customer,66,Business,Business,2458,4,2,3,5,2,4,3,2,5,4,5,1,4,43,79
+Female,disloyal Customer,18,Personal,Business,3710,2,1,3,4,2,3,3,2,4,1,5,3,2,57,31
+Female,Loyal Customer,60,Personal,Eco,1197,1,2,3,1,3,2,3,5,4,3,2,3,4,67,69
+Male,disloyal Customer,42,Business,Business,3234,3,4,3,5,3,3,3,2,5,3,3,2,4,24,94
+Male,Loyal Customer,59,Business,Eco,279,3,5,1,3,1,1,1,2,5,1,5,1,4,36,15
+Female,disloyal Customer,22,Business,Business,338,1,2,3,1,5,2,4,2,2,2,4,4,5,82,87
+Female,disloyal Customer,39,Personal,Eco Plus,1964,3,4,4,1,3,2,4,5,4,2,4,4,4,3,76
+Female,Loyal Customer,35,Personal,Eco Plus,3671,5,3,4,5,3,2,5,1,1,4,1,4,4,31,79
+Female,disloyal Customer,39,Business,Business,2397,1,2,1,3,3,3,2,1,3,1,5,1,4,53,54
+Female,Loyal Customer,29,Personal,Eco Plus,3584,4,1,4,3,1,4,2,2,3,4,3,2,1,44,25
+Female,Loyal Customer,24,Personal,Business,3346,5,5,1,2,4,3,2,2,1,1,2,5,2,42,77
+Female,Loyal Customer,24,Business,Business,3662,5,1,3,2,3,2,4,4,2,4,2,5,4,83,25
+Female,disloyal Customer,55,Business,Business,1470,1,4,5,3,5,1,5,2,3,1,1,3,2,39,64
+Male,Loyal Customer,19,Business,Business,1624,1,3,2,2,4,1,1,2,1,1,4,4,3,8,8
+Male,disloyal Customer,62,Business,Eco Plus,2562,5,3,4,4,4,1,1,3,5,3,4,1,5,35,68
+Male,Loyal Customer,68,Personal,Eco Plus,2418,2,4,2,3,2,5,5,1,5,5,5,3,4,68,93
+Female,disloyal Customer,20,Personal,Eco,1825,5,5,1,4,3,3,5,1,5,1,3,4,3,98,29
+Male,disloyal Customer,30,Personal,Eco Plus,586,5,2,2,5,4,5,3,5,4,1,3,5,5,85,36
+Female,Loyal Customer,25,Personal,Business,2165,3,5,2,4,3,3,5,4,1,3,4,4,2,16,4
+Male,disloyal Customer,66,Business,Business,636,2,2,4,3,1,4,3,1,1,1,1,3,2,98,48
+Male,disloyal Customer,31,Personal,Business,338,1,5,2,5,1,2,3,4,5,1,2,2,1,33,40
+Female,Loyal Customer,22,Business,Eco Plus,3398,2,5,3,2,5,4,3,4,2,4,3,4,4,67,56
+Female,Loyal Customer,34,Personal,Business,3095,1,5,1,4,1,3,2,4,2,4,5,3,5,44,80
+Female,disloyal Customer,20,Business,Eco Plus,2241,2,1,1,5,5,4,3,4,5,4,1,2,1,16,12
+Female,Loyal Customer,48,Personal,Business,3836,3,2,1,4,2,5,3,3,5,5,2,2,3,80,13
+Female,Loyal Customer,53,Business,Eco,3167,5,1,2,4,5,4,2,5,5,5,4,1,5,98,11
+Male,disloyal Customer,37,Business,Eco Plus,2882,5,1,3,1,5,5,5,5,2,4,2,3,1,53,7
+Male,Loyal Customer,52,Business,Eco,2723,5,4,1,4,5,5,2,3,4,5,3,3,5,15,73
+Male,Loyal Customer,22,Business,Eco Plus,2023,4,4,1,2,5,2,1,1,5,4,4,2,1,23,42
+Male,disloyal Customer,70,Personal,Eco Plus,2235,3,2,2,2,1,4,2,2,1,3,2,3,3,32,83
+Female,Loyal Customer,68,Business,Business,1996,1,3,5,2,2,4,4,5,5,5,3,2,1,50,42
+Male,Loyal Customer,36,Business,Eco,719,3,4,3,3,4,4,1,5,3,1,3,3,4,62,6
+Female,Loyal Customer,51,Business,Eco,1293,3,1,2,5,4,1,4,5,3,3,1,3,2,82,79
+Female,disloyal Customer,40,Business,Business,3110,5,5,2,5,3,5,2,3,2,1,4,2,1,68,26
+Male,disloyal Customer,61,Business,Eco Plus,665,2,4,2,4,1,5,1,3,5,1,5,5,3,31,30
+Male,disloyal Customer,63,Personal,Eco Plus,3659,5,5,2,1,5,1,1,5,2,4,2,5,2,25,94
+Male,disloyal Customer,32,Personal,Eco Plus,1002,3,1,3,4,1,5,1,1,2,4,1,2,3,9,4
+Male,disloyal Customer,34,Personal,Eco,3599,4,1,5,3,4,2,3,4,2,2,4,5,5,13,18
+Female,disloyal Customer,46,Business,Eco,371,5,3,4,3,3,3,5,4,5,5,1,4,3,46,67
+Female,Loyal Customer,62,Business,Eco,2393,1,1,5,1,4,3,2,2,1,4,3,1,1,37,41
+Male,Loyal Customer,79,Business,Business,1864,4,2,1,4,4,5,4,2,5,1,5,4,1,53,69
+Female,Loyal Customer,18,Personal,Business,348,4,4,4,4,5,3,1,4,3,5,4,1,5,65,74
+Female,disloyal Customer,70,Personal,Business,3053,4,5,1,3,4,1,5,2,1,3,1,5,4,78,85
+Female,Loyal Customer,55,Personal,Business,1137,3,3,1,4,2,2,4,5,4,2,1,2,5,75,23
+Male,disloyal Customer,71,Personal,Eco Plus,1298,5,5,4,5,3,5,2,2,4,4,2,1,3,37,48
+Male,disloyal Customer,65,Personal,Eco,1202,5,5,4,3,2,2,2,4,4,1,3,2,5,82,56
+Male,Loyal Customer,20,Business,Eco,2984,3,4,5,3,5,5,5,3,5,1,2,1,3,9,66
+Female,disloyal Customer,25,Personal,Eco,2306,3,2,4,1,2,1,2,2,5,3,1,2,5,32,84
+Male,Loyal Customer,19,Business,Business,3104,2,3,5,1,3,3,5,2,5,3,2,4,3,35,25
+Female,disloyal Customer,59,Business,Eco,3152,4,3,5,3,5,1,3,4,2,2,3,2,1,72,44
+Female,disloyal Customer,47,Personal,Eco,2392,4,4,3,3,4,4,1,2,5,1,1,4,1,98,15
+Male,Loyal Customer,74,Personal,Eco Plus,2855,2,5,3,3,3,5,3,4,2,4,4,3,3,29,31
+Female,Loyal Customer,52,Business,Business,1438,1,1,4,2,1,2,3,1,3,4,2,2,1,59,93
+Male,disloyal Customer,63,Business,Eco Plus,1588,2,2,4,1,5,4,1,1,2,4,1,1,2,68,49
+Female,disloyal Customer,21,Personal,Eco,879,4,1,1,5,4,1,5,1,3,3,5,5,1,63,36
+Male,disloyal Customer,20,Business,Business,421,2,5,2,3,5,5,2,3,1,5,1,1,1,11,55
+Male,Loyal Customer,35,Business,Eco,1807,5,2,1,5,1,2,5,4,3,4,4,5,4,46,34
+Female,disloyal Customer,58,Business,Business,780,5,2,2,5,3,5,5,5,3,1,3,1,5,96,43
+Female,disloyal Customer,55,Business,Eco,1621,4,1,3,3,2,2,2,1,5,2,1,1,5,53,55
+Female,Loyal Customer,18,Business,Business,3659,4,3,3,1,3,4,2,1,2,4,1,2,4,65,0
+Male,Loyal Customer,65,Personal,Business,2055,5,3,4,4,3,2,4,1,3,2,4,1,2,25,33
+Male,Loyal Customer,62,Personal,Eco,143,4,5,3,1,4,1,2,4,2,5,1,2,4,38,38
+Male,Loyal Customer,24,Business,Business,2051,1,1,2,1,2,4,1,1,2,4,3,5,5,90,94
+Female,Loyal Customer,73,Business,Eco Plus,1318,3,3,3,5,2,5,1,5,1,5,5,5,1,95,65
+Male,disloyal Customer,59,Business,Eco,545,4,1,5,2,3,3,5,3,4,3,4,4,2,36,17
+Male,disloyal Customer,74,Personal,Business,1160,3,4,3,1,3,2,3,2,2,4,1,1,4,83,93
+Male,disloyal Customer,33,Business,Eco Plus,1700,1,1,4,5,3,2,3,1,5,3,1,4,3,55,88
+Female,Loyal Customer,48,Personal,Eco,375,2,4,3,4,3,5,1,5,1,2,2,5,3,93,71
+Female,Loyal Customer,34,Business,Business,2632,1,4,4,3,4,3,4,5,2,3,4,3,5,78,70
+Male,Loyal Customer,62,Business,Eco,2553,1,4,5,5,5,3,2,3,3,1,3,1,3,82,37
+Female,Loyal Customer,32,Personal,Business,140,5,3,5,5,1,1,5,2,1,5,1,4,2,90,19
+Male,Loyal Customer,28,Personal,Business,1928,3,2,1,2,5,4,3,4,2,3,4,4,5,60,98
+Male,disloyal Customer,69,Business,Business,2126,5,4,3,2,1,3,5,5,3,3,2,5,2,22,3
+Female,disloyal Customer,53,Business,Eco,3318,5,4,1,3,3,5,1,2,5,1,5,5,1,80,45
+Female,Loyal Customer,48,Business,Business,3412,3,4,1,4,2,2,4,1,2,5,4,5,5,55,24
+Male,disloyal Customer,64,Business,Business,1333,4,3,4,1,5,3,2,3,4,1,3,5,1,31,42
+Male,Loyal Customer,66,Business,Business,306,4,3,5,3,4,1,1,2,1,4,2,1,1,40,66
+Female,disloyal Customer,68,Business,Business,3986,2,5,2,2,1,5,1,5,4,2,4,1,4,45,31
+Female,Loyal Customer,55,Personal,Business,853,3,3,2,2,2,3,1,4,5,1,4,4,5,97,33
+Female,disloyal Customer,40,Business,Business,1596,1,2,4,4,4,1,4,5,5,1,2,2,2,79,99
+Male,disloyal Customer,44,Business,Eco,2864,1,1,4,3,2,1,4,3,1,5,3,3,1,99,23
+Male,Loyal Customer,23,Business,Eco,1033,2,4,1,5,3,3,1,1,4,4,2,3,1,85,33
+Female,Loyal Customer,69,Personal,Business,803,3,2,5,3,5,3,3,4,2,4,3,5,4,60,25
+Male,Loyal Customer,40,Personal,Business,3120,1,1,1,4,4,5,4,1,2,5,2,2,2,82,88
+Male,disloyal Customer,67,Personal,Business,1168,1,1,5,3,5,4,5,2,5,5,1,2,3,64,26
+Female,Loyal Customer,30,Business,Eco Plus,2773,1,4,5,5,5,3,2,5,5,2,1,4,2,50,48
+Male,disloyal Customer,44,Personal,Eco Plus,3601,2,1,4,1,1,5,5,4,3,1,2,5,2,12,72
+Female,disloyal Customer,39,Business,Eco,3459,3,2,1,3,5,4,2,1,5,5,3,3,1,22,16
+Male,Loyal Customer,72,Personal,Eco Plus,1302,5,3,2,5,3,2,1,2,3,2,4,4,5,66,45
+Female,disloyal Customer,21,Personal,Business,304,3,4,5,1,5,2,4,3,5,3,3,2,4,75,15
+Male,disloyal Customer,66,Personal,Business,2024,2,5,1,1,4,4,5,5,1,4,4,4,1,27,72
+Female,disloyal Customer,45,Personal,Eco,2469,1,3,1,5,5,2,1,2,1,3,2,2,1,83,25
+Male,Loyal Customer,30,Business,Eco,966,1,2,3,2,3,3,2,3,4,3,2,4,2,26,85
+Female,Loyal Customer,67,Personal,Eco Plus,2459,5,4,3,2,2,4,2,5,2,2,4,3,2,49,70
+Male,Loyal Customer,75,Personal,Eco,2159,2,3,5,1,1,2,5,2,5,5,4,2,3,31,29
+Female,disloyal Customer,51,Personal,Business,1568,3,4,1,5,1,1,3,1,4,4,1,4,1,3,1
+Female,Loyal Customer,35,Personal,Business,2770,4,3,3,5,1,3,5,3,2,4,2,3,1,56,23
+Female,Loyal Customer,74,Personal,Business,2259,1,2,1,1,2,2,3,3,3,2,1,1,2,20,36
+Female,disloyal Customer,47,Personal,Business,2437,4,3,4,2,1,2,2,1,2,1,4,2,1,47,0
+Male,Loyal Customer,46,Business,Eco Plus,2110,1,1,2,1,5,2,2,2,5,1,4,1,2,92,4
+Female,Loyal Customer,33,Personal,Business,2860,5,2,5,1,4,1,4,4,5,1,5,5,1,43,29
+Male,disloyal Customer,34,Personal,Eco,3924,1,5,2,5,1,2,5,3,3,5,4,5,1,35,2
+Female,disloyal Customer,73,Personal,Business,3534,3,2,5,4,4,4,5,4,2,4,3,1,2,25,33
+Male,disloyal Customer,72,Business,Eco Plus,964,4,4,1,2,3,5,5,4,3,5,5,1,4,41,89
+Male,Loyal Customer,50,Business,Eco,1656,5,3,4,2,4,5,2,3,2,5,3,3,5,83,91
+Male,Loyal Customer,44,Personal,Eco Plus,3180,2,4,4,1,2,3,3,3,1,4,5,1,3,64,89
+Male,Loyal Customer,19,Personal,Eco,3577,5,4,2,5,4,2,2,2,2,3,1,5,3,45,35
+Male,Loyal Customer,29,Business,Eco Plus,2881,5,5,5,3,1,4,5,1,5,3,1,5,4,51,21
+Female,Loyal Customer,74,Personal,Eco Plus,1363,5,2,3,2,4,2,3,3,5,5,4,4,1,14,20
+Male,Loyal Customer,66,Personal,Eco Plus,3349,5,2,4,5,3,5,4,1,2,5,5,4,3,89,15
+Female,Loyal Customer,49,Personal,Business,3945,5,5,2,5,5,5,1,2,4,3,5,1,3,18,69
+Female,disloyal Customer,39,Personal,Business,262,5,5,5,2,4,4,2,1,1,2,3,3,3,37,31
+Male,disloyal Customer,64,Personal,Eco Plus,566,1,4,4,1,3,2,4,3,4,4,4,2,5,58,81
+Female,Loyal Customer,54,Business,Eco,1125,5,5,5,3,3,3,3,1,4,2,5,1,1,19,80
+Female,Loyal Customer,42,Business,Eco Plus,3996,2,2,5,5,5,3,2,5,1,3,4,1,3,90,76
+Male,Loyal Customer,37,Personal,Eco,1108,2,5,2,1,2,5,1,2,5,2,5,2,1,17,93
+Male,disloyal Customer,26,Personal,Business,2355,4,2,5,1,5,1,5,3,3,3,5,1,5,90,88
+Male,disloyal Customer,50,Personal,Business,158,5,4,4,5,5,4,2,5,5,1,3,2,4,18,10
+Female,disloyal Customer,22,Personal,Eco,1083,3,2,3,5,5,4,3,2,2,4,2,5,4,6,0
+Male,disloyal Customer,27,Personal,Eco Plus,598,4,4,3,3,1,1,2,3,4,1,2,3,1,52,91
+Male,Loyal Customer,67,Business,Business,1807,1,2,4,1,2,5,3,1,2,1,5,2,2,6,62
+Male,Loyal Customer,73,Personal,Eco,3909,1,3,2,2,2,3,5,3,1,1,4,1,1,25,43
+Male,disloyal Customer,38,Personal,Eco Plus,3103,4,3,1,1,3,5,4,5,3,4,5,5,3,14,40
+Male,disloyal Customer,32,Business,Business,2763,5,1,2,2,3,3,1,3,4,3,2,2,5,21,53
+Male,disloyal Customer,27,Personal,Eco Plus,1510,1,3,1,4,2,3,4,2,4,3,3,3,4,8,1
+Male,Loyal Customer,75,Personal,Eco,3580,1,3,5,1,4,3,4,3,3,2,4,2,1,48,95
+Male,disloyal Customer,63,Personal,Eco Plus,2203,3,1,3,4,4,5,1,2,5,3,4,5,4,44,96
+Female,disloyal Customer,34,Business,Business,2615,3,5,4,5,1,2,3,2,3,5,2,3,1,12,82
+Male,disloyal Customer,73,Personal,Eco Plus,2071,1,4,1,2,2,2,2,4,5,1,2,3,1,15,73
+Male,Loyal Customer,76,Business,Eco Plus,2912,1,3,1,4,1,1,4,3,3,1,2,1,5,84,54
+Male,Loyal Customer,31,Business,Business,708,3,5,3,1,2,2,2,3,5,4,4,3,3,73,0
+Female,Loyal Customer,33,Business,Eco Plus,2745,1,3,5,1,5,5,5,4,2,3,4,1,1,11,19
+Male,Loyal Customer,53,Personal,Eco Plus,3499,5,3,3,4,5,3,5,2,5,2,5,4,3,13,25
+Female,Loyal Customer,44,Personal,Business,585,4,3,5,5,4,1,2,4,4,3,1,5,5,5,21
+Male,Loyal Customer,62,Business,Business,2568,5,3,4,4,4,3,5,1,1,5,3,2,4,22,52
+Female,Loyal Customer,31,Business,Business,1045,1,3,3,1,4,5,3,5,4,2,1,1,1,24,55
+Male,disloyal Customer,30,Personal,Eco,636,5,3,4,2,2,3,4,2,4,2,5,4,5,47,15
+Female,disloyal Customer,61,Personal,Eco Plus,2143,2,3,3,1,5,4,5,3,3,4,3,2,5,38,23
+Female,disloyal Customer,18,Business,Eco,1360,5,4,3,5,4,4,5,1,5,1,1,1,3,46,95
+Male,Loyal Customer,31,Business,Eco Plus,115,4,1,4,3,1,3,1,2,4,4,3,2,5,65,21
+Female,Loyal Customer,28,Business,Eco,845,2,2,5,2,2,2,2,1,4,3,4,2,4,61,16
+Male,Loyal Customer,71,Business,Eco Plus,1597,5,1,2,2,3,2,1,2,5,2,5,3,5,58,79
+Female,disloyal Customer,63,Business,Eco,1941,3,1,5,2,3,4,1,1,1,2,1,5,3,11,93
+Female,disloyal Customer,43,Personal,Eco,3952,3,5,1,4,1,5,1,1,3,4,4,4,1,2,8
+Female,disloyal Customer,47,Business,Eco,3126,2,3,1,1,1,4,2,1,5,1,3,1,1,81,50
+Male,disloyal Customer,25,Business,Eco,2704,3,5,1,4,1,1,2,5,5,5,5,5,5,78,45
+Female,disloyal Customer,61,Business,Eco,2325,2,1,2,3,5,1,2,4,3,1,5,1,5,5,50
+Male,Loyal Customer,19,Business,Business,2908,5,1,3,3,4,4,3,5,3,1,2,4,3,41,39
+Female,Loyal Customer,33,Business,Business,1710,5,1,4,5,2,2,4,4,1,2,1,1,5,15,30
+Female,disloyal Customer,34,Personal,Eco,3845,2,2,3,2,5,5,5,5,1,4,1,2,4,17,93
+Female,Loyal Customer,54,Business,Business,304,4,3,4,3,4,5,4,2,2,1,5,3,4,62,22
+Female,Loyal Customer,76,Business,Business,380,4,5,4,2,1,1,3,2,3,3,1,5,4,88,63
+Female,disloyal Customer,32,Business,Business,219,2,4,3,4,4,2,2,4,4,2,2,5,4,47,85
+Female,disloyal Customer,62,Personal,Eco Plus,489,4,4,1,2,4,5,3,2,1,4,1,4,5,85,17
+Male,Loyal Customer,38,Business,Eco Plus,1152,5,2,2,2,3,2,4,3,2,3,2,4,2,55,34
+Male,Loyal Customer,50,Business,Business,1662,1,1,4,2,4,3,3,2,1,3,1,4,4,65,45
+Female,Loyal Customer,49,Personal,Eco Plus,1971,4,1,3,4,3,4,4,1,2,2,1,2,4,94,12
+Female,disloyal Customer,77,Business,Eco Plus,2662,1,1,1,4,4,4,3,5,3,5,3,4,3,79,6
+Male,Loyal Customer,18,Business,Eco Plus,3171,1,5,2,2,5,1,5,2,2,2,4,1,5,82,47
+Female,disloyal Customer,38,Business,Business,2369,4,5,4,2,2,5,3,5,4,5,2,5,4,50,89
+Male,disloyal Customer,42,Business,Eco Plus,3326,1,4,2,3,1,3,5,2,2,4,3,3,2,1,69
+Male,disloyal Customer,56,Business,Business,255,3,5,1,2,4,5,3,4,1,4,2,3,5,95,13
+Male,disloyal Customer,35,Business,Business,3860,2,5,3,1,2,2,4,5,5,4,5,5,2,53,6
+Male,Loyal Customer,33,Business,Eco,110,5,5,1,3,2,5,4,1,2,5,4,5,4,55,79
+Female,Loyal Customer,66,Business,Eco Plus,3575,4,3,1,3,2,4,4,2,1,1,5,3,4,42,21
+Male,Loyal Customer,49,Personal,Business,819,5,4,5,5,3,3,4,2,5,1,2,3,1,30,57
+Female,disloyal Customer,71,Personal,Eco Plus,2492,5,3,2,2,4,3,5,3,1,5,1,3,3,92,74
+Female,disloyal Customer,51,Business,Eco Plus,955,5,4,2,2,4,2,3,2,3,4,3,5,1,34,93
+Female,disloyal Customer,32,Business,Eco Plus,2867,2,4,3,4,3,4,4,3,3,2,4,5,1,34,71
+Male,Loyal Customer,23,Personal,Business,1254,1,3,1,4,4,2,1,3,3,4,3,3,2,22,9
+Female,disloyal Customer,31,Personal,Eco Plus,2233,4,5,5,1,5,2,5,3,1,1,4,4,3,45,51
+Male,disloyal Customer,26,Business,Eco Plus,197,3,1,1,3,3,4,5,4,2,3,4,4,4,47,45
+Female,disloyal Customer,73,Business,Business,2781,1,2,1,5,4,4,5,2,3,1,4,1,2,4,65
+Female,disloyal Customer,39,Business,Eco,2226,3,1,3,2,3,1,3,1,5,2,5,3,1,96,98
+Female,Loyal Customer,75,Business,Eco,3258,4,4,3,5,2,4,4,5,2,2,2,4,5,43,83
+Male,Loyal Customer,23,Business,Eco Plus,2551,1,2,3,4,1,2,4,1,2,2,2,2,5,51,49
+Male,Loyal Customer,69,Business,Eco,738,3,3,4,1,1,2,1,1,2,5,5,4,1,55,85
+Female,disloyal Customer,54,Business,Business,2978,4,5,3,4,3,2,2,4,4,2,4,2,2,82,11
+Female,Loyal Customer,43,Business,Business,1077,4,3,5,2,4,4,5,2,3,2,4,1,4,42,91
+Male,disloyal Customer,32,Business,Business,3958,2,2,2,5,3,3,2,3,3,4,3,4,1,42,13
+Male,Loyal Customer,22,Business,Eco Plus,3171,2,3,2,2,2,4,3,1,1,5,5,4,4,72,81
+Female,disloyal Customer,36,Personal,Business,1499,4,3,5,1,3,4,2,4,3,4,1,5,2,79,15
+Male,disloyal Customer,43,Personal,Business,3018,3,1,5,3,1,5,3,5,5,4,5,5,3,87,1
+Male,Loyal Customer,34,Personal,Eco Plus,2091,2,1,5,1,5,4,2,1,4,4,2,5,3,9,7
+Female,disloyal Customer,57,Business,Eco,1940,1,1,3,3,1,4,1,4,2,2,4,5,1,35,4
+Female,disloyal Customer,23,Business,Eco,3937,4,1,1,3,3,4,5,4,2,5,1,5,5,22,76
+Male,disloyal Customer,71,Business,Eco Plus,114,4,3,1,2,4,1,3,5,5,4,3,3,1,22,94
+Male,Loyal Customer,53,Business,Business,2176,4,5,4,2,1,1,5,5,1,2,3,5,2,19,23
