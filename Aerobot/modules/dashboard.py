@@ -5,7 +5,6 @@ import pandas as pd
 import modules.data_utils as data_utils
 import os
 import base64
-import time
 
 @st.cache_data
 def get_base64_image(image_path):
@@ -55,7 +54,6 @@ def show_dashboard():
     
     st.markdown("---")
 
-    # Load data (this will now check global memory first)
     df = data_utils.load_data()
 
     col_upload, col_image = st.columns([1, 3])
@@ -67,14 +65,8 @@ def show_dashboard():
             if uploaded_file:
                 try:
                     new_df = pd.read_csv(uploaded_file)
-                    processed_df = data_utils.engineer_financial_features(new_df)
-                    
-                    # --- THE FIX: Save to Global Memory ---
-                    st.session_state['shared_data'] = processed_df
-                    st.success("Data Loaded & Shared with AI Engine!")
-                    time.sleep(1)
-                    st.rerun() # Refresh to show new data
-                    
+                    df = data_utils.engineer_financial_features(new_df)
+                    st.success("Loaded!")
                 except Exception as e:
                     st.error(f"Error: {e}")
 
@@ -104,8 +96,22 @@ def show_dashboard():
             img_src = "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop"
 
         st.markdown(f"""
-            <div style="width: 100%; height: 250px; border-radius: 12px; overflow: hidden; border: 1px solid #374151; display: flex; align-items: center; justify-content: center;">
-                <img src="{img_src}" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+            <div style="
+                width: 100%; 
+                height: 250px; 
+                border-radius: 12px; 
+                overflow: hidden; 
+                border: 1px solid #374151;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            ">
+                <img src="{img_src}" style="
+                    width: 100%; 
+                    height: 100%; 
+                    object-fit: cover; 
+                    object-position: center;
+                ">
             </div>
         """, unsafe_allow_html=True)
 
@@ -219,15 +225,37 @@ def show_dashboard():
         ))
         is_dark = st.session_state.get('is_dark', False)
         if is_dark:
-            land_c, ocean_c, bg_c, country_c, text_c = '#374151', '#1F2937', '#1F2937', '#0E1117', '#E0E0E0'
+            land_c = '#374151'
+            ocean_c = '#1F2937'
+            bg_c = '#1F2937'
+            country_c = '#0E1117'
+            text_c = '#E0E0E0'
         else:
-            land_c, ocean_c, bg_c, country_c, text_c = '#F0F2F6', '#FFFFFF', '#FFFFFF', '#D1D5DB', '#2D2D2D'
+            land_c = '#F0F2F6'
+            ocean_c = '#FFFFFF'
+            bg_c = '#FFFFFF'
+            country_c = '#D1D5DB'
+            text_c = '#2D2D2D'
         fig_map.update_layout(
             showlegend = False,
-            geo = dict(projection_type = 'equirectangular', showland = True, landcolor = land_c, oceancolor = ocean_c, showocean = True, countrycolor = country_c, coastlinecolor = country_c, bgcolor = bg_c),
-            height = 600, margin = dict(l=0, r=0, t=0, b=0), paper_bgcolor=bg_c, font_color=text_c
+            geo = dict(
+                projection_type = 'equirectangular',
+                showland = True,
+                landcolor = land_c,
+                oceancolor = ocean_c,
+                showocean = True,
+                countrycolor = country_c,
+                coastlinecolor = country_c,
+                bgcolor = bg_c
+            ),
+            height = 600,
+            margin = dict(l=0, r=0, t=0, b=0),
+            paper_bgcolor=bg_c,
+            font_color=text_c
         )
         st.plotly_chart(fig_map, use_container_width=True)
+    else:
+        st.info("Geographic data not available.")
 
     with st.expander("📂 View Detailed Data"):
         st.dataframe(df)
