@@ -6,7 +6,6 @@ from datetime import datetime, timedelta
 
 DATA_PATH = "data/airline_dataset.csv"
 
-# Global dictionary for Airport Coordinates (Lat, Lon)
 AIRPORT_COORDINATES = {
     'DEL': {'lat': 28.5562, 'lon': 77.1000, 'city': 'Delhi'},
     'BOM': {'lat': 19.0912, 'lon': 72.8656, 'city': 'Mumbai'},
@@ -23,7 +22,6 @@ AIRPORT_COORDINATES = {
 }
 
 def normalize_columns(df):
-    """Smartly renames columns to match what our code expects."""
     column_map = {
         'Flight Distance': ['flight distance', 'distance', 'dist', 'miles', 'flight_distance'],
         'Class': ['class', 'travel class', 'cabin_type', 'fare type'],
@@ -79,48 +77,42 @@ def engineer_financial_features(df):
     
     if 'Flight Distance' not in df.columns:
         df['Flight Distance'] = np.random.randint(200, 4000, size=len(df))
-    
     if 'Class' not in df.columns:
         df['Class'] = np.random.choice(['Eco', 'Business', 'Eco Plus'], size=len(df))
-
     if 'Departure Delay in Minutes' not in df.columns:
-        conditions = [
-            np.random.rand(len(df)) < 0.7,
-            np.random.rand(len(df)) < 0.9
-        ]
+        conditions = [np.random.rand(len(df)) < 0.7, np.random.rand(len(df)) < 0.9]
         choices = [0, np.random.randint(5, 30, size=len(df))]
         df['Departure Delay in Minutes'] = np.select(conditions, choices, default=np.random.randint(30, 120, size=len(df)))
 
     df['Ticket_Price'] = 50 + (df['Flight Distance'] * 0.12)
     df['Ticket_Price'] = df['Ticket_Price'] * np.random.uniform(0.8, 1.5, size=len(df))
-    
     class_multiplier = df['Class'].map({'Eco': 1, 'Business': 2.5, 'Eco Plus': 1.5}).fillna(1)
     df['Revenue'] = df['Ticket_Price'] * class_multiplier
-    
     df['Fuel_Cost'] = df['Flight Distance'] * 0.04 * np.random.uniform(0.9, 1.1, size=len(df))
     df['Profit'] = df['Revenue'] - df['Fuel_Cost']
-    
     return df
 
 def load_data():
+    # 1. NEW LOGIC: Check Global Memory FIRST
+    if 'shared_data' in st.session_state:
+        return st.session_state['shared_data']
+        
+    # 2. Fallback: Load from disk if memory is empty
     if os.path.exists(DATA_PATH):
         try:
             df = pd.read_csv(DATA_PATH)
             df = engineer_financial_features(df)
+            st.session_state['shared_data'] = df # Save it to memory
             return df
         except Exception as e:
             st.error(f"Error loading data: {e}")
             return None
     return None
 
-# --- EMBEDDED DUMMY GENERATOR (FIXES THE ERROR) ---
 def generate_dummy_data_file():
-    """Generates sample data directly without needing external files."""
     try:
-        # Create data directory if not exists
         if not os.path.exists("data"):
             os.makedirs("data")
-
         n_rows = 1000
         data = {
             'Gender': np.random.choice(['Male', 'Female'], n_rows),
@@ -133,10 +125,13 @@ def generate_dummy_data_file():
             'Arrival Delay in Minutes': np.random.randint(0, 100, n_rows),
         }
         df = pd.DataFrame(data)
-        
-        # Save
         file_path = "data/airline_dataset.csv"
         df.to_csv(file_path, index=False)
+        
+        # Clear memory so next load fetches new data
+        if 'shared_data' in st.session_state:
+            del st.session_state['shared_data']
+            
         return True
     except Exception as e:
         st.error(f"Failed to generate data: {e}")
