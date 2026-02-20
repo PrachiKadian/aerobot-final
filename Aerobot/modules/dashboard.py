@@ -5,10 +5,10 @@ import pandas as pd
 import modules.data_utils as data_utils
 import os
 import base64
+import time
 
 @st.cache_data
 def get_base64_image(image_path):
-    """Converts a local image to base64 so HTML can display it."""
     try:
         with open(image_path, "rb") as img_file:
             return base64.b64encode(img_file.read()).decode()
@@ -55,6 +55,7 @@ def show_dashboard():
     
     st.markdown("---")
 
+    # Load data (this will now check global memory first)
     df = data_utils.load_data()
 
     col_upload, col_image = st.columns([1, 3])
@@ -66,14 +67,18 @@ def show_dashboard():
             if uploaded_file:
                 try:
                     new_df = pd.read_csv(uploaded_file)
-                    df = data_utils.engineer_financial_features(new_df)
-                    st.success("Loaded!")
+                    processed_df = data_utils.engineer_financial_features(new_df)
+                    
+                    # --- THE FIX: Save to Global Memory ---
+                    st.session_state['shared_data'] = processed_df
+                    st.success("Data Loaded & Shared with AI Engine!")
+                    time.sleep(1)
+                    st.rerun() # Refresh to show new data
+                    
                 except Exception as e:
                     st.error(f"Error: {e}")
 
     with col_image:
-        # --- SMART IMAGE SEARCH (Fixes Case Sensitivity Issues) ---
-        # List all possible variations to try
         possible_paths = [
             "assets/dashboard_cover3.png",
             "assets/dashboard_cover3.PNG",
@@ -92,39 +97,15 @@ def show_dashboard():
         if found_path:
             base64_img = get_base64_image(found_path)
             if base64_img:
-                # Basic mime type detection
                 mime = "image/png" if found_path.lower().endswith(".png") else "image/jpeg"
                 img_src = f"data:{mime};base64,{base64_img}"
         
-        # Fallback if NOTHING is found
         if not img_src:
             img_src = "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop"
-            
-            # --- DEBUGGER (Visible only if image fails) ---
-            # This helps you see exactly what files made it to the cloud
-            if os.path.exists("assets"):
-                files = os.listdir("assets")
-                st.caption(f"⚠️ Debug: Could not find 'dashboard_cover3.png'. Files in 'assets' folder: {files}")
-            else:
-                st.caption("⚠️ Debug: 'assets' folder is missing on the server.")
 
         st.markdown(f"""
-            <div style="
-                width: 100%; 
-                height: 250px; 
-                border-radius: 12px; 
-                overflow: hidden; 
-                border: 1px solid #374151;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            ">
-                <img src="{img_src}" style="
-                    width: 100%; 
-                    height: 100%; 
-                    object-fit: cover; 
-                    object-position: center;
-                ">
+            <div style="width: 100%; height: 250px; border-radius: 12px; overflow: hidden; border: 1px solid #374151; display: flex; align-items: center; justify-content: center;">
+                <img src="{img_src}" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
             </div>
         """, unsafe_allow_html=True)
 
@@ -238,37 +219,15 @@ def show_dashboard():
         ))
         is_dark = st.session_state.get('is_dark', False)
         if is_dark:
-            land_c = '#374151'
-            ocean_c = '#1F2937'
-            bg_c = '#1F2937'
-            country_c = '#0E1117'
-            text_c = '#E0E0E0'
+            land_c, ocean_c, bg_c, country_c, text_c = '#374151', '#1F2937', '#1F2937', '#0E1117', '#E0E0E0'
         else:
-            land_c = '#F0F2F6'
-            ocean_c = '#FFFFFF'
-            bg_c = '#FFFFFF'
-            country_c = '#D1D5DB'
-            text_c = '#2D2D2D'
+            land_c, ocean_c, bg_c, country_c, text_c = '#F0F2F6', '#FFFFFF', '#FFFFFF', '#D1D5DB', '#2D2D2D'
         fig_map.update_layout(
             showlegend = False,
-            geo = dict(
-                projection_type = 'equirectangular',
-                showland = True,
-                landcolor = land_c,
-                oceancolor = ocean_c,
-                showocean = True,
-                countrycolor = country_c,
-                coastlinecolor = country_c,
-                bgcolor = bg_c
-            ),
-            height = 600,
-            margin = dict(l=0, r=0, t=0, b=0),
-            paper_bgcolor=bg_c,
-            font_color=text_c
+            geo = dict(projection_type = 'equirectangular', showland = True, landcolor = land_c, oceancolor = ocean_c, showocean = True, countrycolor = country_c, coastlinecolor = country_c, bgcolor = bg_c),
+            height = 600, margin = dict(l=0, r=0, t=0, b=0), paper_bgcolor=bg_c, font_color=text_c
         )
         st.plotly_chart(fig_map, use_container_width=True)
-    else:
-        st.info("Geographic data not available.")
 
     with st.expander("📂 View Detailed Data"):
         st.dataframe(df)
