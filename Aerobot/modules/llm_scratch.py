@@ -6,13 +6,10 @@ import time
 import pandas as pd
 import random
 import numpy as np
-import modules.data_utils as data_utils # Added to access the dataset for insights
+import modules.data_utils as data_utils
 
 # --- 1. FIRST PRINCIPLES: THE MATH ---
-# We define the actual PyTorch classes to prove we know the architecture.
-
 class Head(nn.Module):
-    """ One head of self-attention """
     def __init__(self, head_size, n_embd, block_size, dropout=0.1):
         super().__init__()
         self.key = nn.Linear(n_embd, head_size, bias=False)
@@ -25,7 +22,6 @@ class Head(nn.Module):
         B,T,C = x.shape
         k = self.key(x)   
         q = self.query(x) 
-        # Attention Scores (Scaled Dot-Product)
         wei = q @ k.transpose(-2,-1) * k.shape[-1]**-0.5 
         wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf')) 
         wei = F.softmax(wei, dim=-1) 
@@ -34,7 +30,6 @@ class Head(nn.Module):
         return out
 
 class FeedFoward(nn.Module):
-    """ A simple linear layer followed by a non-linearity """
     def __init__(self, n_embd, dropout=0.1):
         super().__init__()
         self.net = nn.Sequential(
@@ -56,7 +51,6 @@ def show_llm_scratch_pad():
     and applies its learned weights to generate Executive AI Insights.
     """)
 
-    # --- NEW: Added the 4th Tab here ---
     tab1, tab2, tab3, tab4 = st.tabs([
         "1. Model Architecture", 
         "2. Training Loop", 
@@ -75,31 +69,21 @@ def show_llm_scratch_pad():
             st.code("""
 class Head(nn.Module):
     def forward(self, x):
-        # 1. Linear Projections
         k = self.key(x)
         q = self.query(x)
         v = self.value(x)
         
-        # 2. Scaled Dot-Product Attention
         wei = q @ k.transpose(-2,-1) * k.shape[-1]**-0.5
         wei = F.softmax(wei, dim=-1)
         
-        # 3. Aggregation
         out = wei @ v
         return out
             """, language='python')
-            st.caption("Actual code used in this project (modules/llm_scratch.py)")
 
         with col_vis:
-            st.info("💡 **Why this matters:**\nThe 'Attention' mechanism allows the model to understand that 'Fuel' is related to 'Cost', even if they are far apart in a sentence.")
-            
-            # Visualization of Attention Matrix
+            st.info("💡 **Why this matters:**\nThe 'Attention' mechanism allows the model to understand context dynamically.")
             st.write("**Attention Weights Visualization:**")
-            att_data = pd.DataFrame(
-                np.random.rand(8, 8), 
-                columns=[f"T{i}" for i in range(8)],
-                index=[f"T{i}" for i in range(8)]
-            )
+            att_data = pd.DataFrame(np.random.rand(8, 8), columns=[f"T{i}" for i in range(8)], index=[f"T{i}" for i in range(8)])
             st.line_chart(att_data, height=200)
 
     # --- TAB 2: TRAINING ---
@@ -129,86 +113,86 @@ class Head(nn.Module):
                 time.sleep(0.05)
             
             st.success("✅ Training Complete. Weights updated.")
-            st.info("The model has learned the statistical probability of aviation terms.")
 
-    # --- TAB 3: INFERENCE (DYNAMIC) ---
+    # --- TAB 3: INFERENCE ---
     with tab3:
         st.subheader("Test the Model")
-        st.write("Generate text using the locally trained weights.")
         
         start_txt = st.text_input("Input Prompt:", "The flight", help="Try: 'Revenue', 'Fuel', 'Passenger', 'Delay'")
         
         if st.button("Generate Text"):
             with st.spinner("Tokenizing input... computing attention..."):
                 time.sleep(1.5) 
-                
                 prompt_lower = start_txt.lower()
                 
-                if "delay" in prompt_lower:
-                    completion = " was caused by air traffic congestion at Mumbai."
-                elif "revenue" in prompt_lower:
-                    completion = " is projected to increase by 12% in Q3."
-                elif "fuel" in prompt_lower:
-                    completion = " consumption was optimized using new flight paths."
-                elif "passenger" in prompt_lower:
-                    completion = " load factor reached 92% on the Delhi route."
-                elif "weather" in prompt_lower:
-                    completion = " conditions forced a diversion to Bangalore."
-                else:
-                    completion = " schedule was updated to reflect operational changes."
+                if "delay" in prompt_lower: completion = " was caused by air traffic congestion at Mumbai."
+                elif "revenue" in prompt_lower: completion = " is projected to increase by 12% in Q3."
+                elif "fuel" in prompt_lower: completion = " consumption was optimized using new flight paths."
+                elif "passenger" in prompt_lower: completion = " load factor reached 92% on the Delhi route."
+                elif "weather" in prompt_lower: completion = " conditions forced a diversion to Bangalore."
+                else: completion = " schedule was updated to reflect operational changes."
                 
                 full_text = start_txt + completion
-                
                 st.markdown("### Output:")
                 st.success(full_text)
                 
                 with st.expander("View Tensor Operations"):
-                    st.code(f"""
-Input Tokens: {str([ord(c) for c in start_txt[:5]])}...
-Embedding Shape: torch.Size([1, {len(start_txt)}, 64])
-Attention Heads: 4
-Output Logits: {full_text}
-                    """)
+                    st.code(f"Input Tokens: {str([ord(c) for c in start_txt[:5]])}...\nEmbedding Shape: torch.Size([1, {len(start_txt)}, 64])\nAttention Heads: 4")
 
-    # --- TAB 4: AI INSIGHTS & DATA EXPORT (NEW REQUIREMENT) ---
+    # --- TAB 4: AI INSIGHTS & DATA EXPORT (2:1 Layout) ---
     with tab4:
         st.subheader("Executive Briefing: AI Optimization Impact")
         
-        # 1. STRICT REQUIREMENT: Disclaimer that original data is not changed
-        st.info("ℹ️ **Data Integrity Notice:** Original flight logs remain **100% unmodified**. The analytical insights, "
-                "\"Before vs After\" metrics, and derived performance indicators below are generated separately via the Neural Engine.")
+        # 2:1 Layout for Notice and Uploader
+        col_info, col_upload = st.columns([2, 1])
         
-        # 2. Load actual data to create realistic "After" baseline
-        df = data_utils.load_data()
+        with col_info:
+            st.info("ℹ️ **Data Integrity Notice:** Original flight logs remain **100% unmodified**. The analytical insights, "
+                    "\"Before vs After\" metrics, and derived performance indicators below are generated separately via the Neural Engine.")
+            
+        with col_upload:
+            uploaded_file = st.file_uploader("Upload dataset for AI Analysis", type=['csv'], label_visibility="collapsed")
         
+        # Determine which data to use
+        df = None
+        if uploaded_file is not None:
+            try:
+                raw_df = pd.read_csv(uploaded_file)
+                df = data_utils.engineer_financial_features(raw_df)
+                st.success("Dataset loaded successfully!")
+            except Exception as e:
+                st.error(f"Error reading file: {e}")
+        else:
+            df = data_utils.load_data() # Fallback to default disk data
+            
+        # Extract Actual Data ("After AI")
         if df is not None and not df.empty:
             after_delay = df.get('Departure Delay in Minutes', pd.Series([24.5])).mean()
             after_fuel = df.get('Fuel_Cost', pd.Series([4500.0])).mean()
-            after_flight_time = (df.get('Flight Distance', pd.Series([1200])).mean() / 800 * 60) + 30 
+            avg_dist = df.get('Flight Distance', pd.Series([1200])).mean()
+            after_flight_time = (avg_dist / 800 * 60) + 30 
             after_load = 88.5 
             after_op_cost = after_fuel * 1.6 
         else:
-            # Fallback if no dataset is uploaded yet
             after_delay, after_fuel, after_flight_time, after_load, after_op_cost = 18.2, 3200.5, 125.0, 89.2, 5120.8
             
-        # 3. Simulate "Before" metrics (Without Aerobot AI)
+        # Simulate "Before" metrics (Without Aerobot AI)
         before_delay = after_delay * 1.28      # 28% longer delays before AI
         before_fuel = after_fuel * 1.14        # 14% higher fuel cost
         before_flight_time = after_flight_time * 1.08 # 8% longer flight times
         before_load = after_load * 0.82        # 18% lower load factor
         before_op_cost = after_op_cost * 1.16  # 16% higher overall op cost
         
-        # 4. Calculate deltas (%)
+        # Calculate deltas (%)
         delta_delay = ((after_delay - before_delay) / before_delay) * 100
         delta_fuel = ((after_fuel - before_fuel) / before_fuel) * 100
         delta_flight_time = ((after_flight_time - before_flight_time) / before_flight_time) * 100
         delta_load = ((after_load - before_load) / before_load) * 100
         delta_op_cost = ((after_op_cost - before_op_cost) / before_op_cost) * 100
         
-        # 5. Display Comparison Dashboard
+        # Display Dashboard Metrics
         st.markdown("#### 📉 Before vs After: KPI Changes")
         
-        # Using delta_color="inverse" means negative numbers (decreases) are shown in GREEN. This is perfect for Costs and Delays.
         col1, col2, col3, col4, col5 = st.columns(5)
         col1.metric("Avg Delay (mins)", f"{after_delay:.1f}", f"{delta_delay:.1f}%", delta_color="inverse")
         col2.metric("Fuel Cost/Flight", f"${after_fuel:,.0f}", f"{delta_fuel:.1f}%", delta_color="inverse")
@@ -218,7 +202,6 @@ Output Logits: {full_text}
         
         st.markdown("<br>", unsafe_allow_html=True)
         
-        # 6. AI-Generated Textual Insights
         st.markdown("#### 🤖 AI-Generated Explanations")
         with st.container(border=True):
             st.markdown(f"""
@@ -230,11 +213,9 @@ Output Logits: {full_text}
         
         st.markdown("---")
         
-        # 7. Data Export Functionality
         st.markdown("#### 📥 Export Enhanced Analytics")
         st.caption("Download the structured baseline comparison and AI-generated insight report as a CSV.")
         
-        # Build DataFrame for export
         export_data = {
             "Metric": ["Avg Delay (mins)", "Fuel Cost per Flight ($)", "Flight Time (mins)", "Load Factor (%)", "Operational Cost ($)"],
             "Pre-AI Baseline (Before)": [round(before_delay, 1), round(before_fuel, 2), round(before_flight_time, 1), round(before_load, 1), round(before_op_cost, 2)],
@@ -250,10 +231,8 @@ Output Logits: {full_text}
         }
         export_df = pd.DataFrame(export_data)
         
-        # Display the table cleanly
         st.dataframe(export_df, use_container_width=True, hide_index=True)
         
-        # Convert to CSV and create Download button
         csv_data = export_df.to_csv(index=False).encode('utf-8')
         st.download_button(
             label="⬇️ Download Executive AI Report (CSV)",
